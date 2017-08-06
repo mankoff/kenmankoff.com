@@ -1,0 +1,284 @@
+#+TITLE:     Ken Mankoff
+#+AUTHOR:    Ken Mankoff
+#+EMAIL:     (concat "mankoff" at-sign "gmail.com")
+#+DESCRIPTION: Ken Mankoff Website
+#+KEYWORDS:  Ken Mankoff, Greenland, Ice, Ocean, Research, Antarctica 
+#+LANGUAGE:  en
+#+OPTIONS:   H:4 num:nil toc:3 p:t
+
+#+HTML_LINK_HOME: http://www.kenmankoff.com/
+#+HTML_LINK_UP: http://www.kenmankoff.com/
+
+#+SETUPFILE: ./org-html-themes/setup/theme-readtheorg.setup
+
+#+PROPERTY:  header-args :eval yes :exports both :results replace
+
+# #+MACRO: longtext this is a very very long text to include
+
+#+MACRO: NEWLINE @@latex:\\@@ @@html:<br>@@
+#+MACRO: DOI @@html:DOI: <a href="http://dx.doi.org/$1">$1</a>@@
+#+MACRO: PDF @@html:[<a href="http://kenmankoff.com/data/$1">PDF</a>]@@
+#+MACRO: LI @@html:<li>@@
+
+# #+MACRO: PDF @@html:[<a href="http://kenmankoff.com/pubs/$1"><img src="./img/pdf.gif" width="12px"></a>]@@
+
+# #+TOC: headlines 2
+
+* Contact
+:PROPERTIES:
+:CUSTOM_ID: contact
+:END:
+
+| Home Page | http://kenmankoff.com                        |
+| Email     | [[mailto:Ken Mankoff <kdm@geus.dk>][kdm@geus.dk]]                                  |
+| Twitter   | [[http://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
+| CV        | http://kenmankoff.com/mankoff_cv.pdf         |
+
+# | GitHub    | http://github.com/mankoff                    |
+
+** Work Address
+
+Ken Mankoff {{{NEWLINE}}}
+Geological Survey of Denmark and Greenland (GEUS){{{NEWLINE}}}
+Department of Glaciology and Climate{{{NEWLINE}}}
+Øster Voldgade 10{{{NEWLINE}}}
+1350 København K., Denmark
+* About Me
+:PROPERTIES:
+:CUSTOM_ID: about
+:END:
+
+#+ATTR_HTML: :width 500
+[[./mankoff.jpg]]
+
+# #+begin_sidebar
+# #+begin_center
+# Ken Mankoff {{{NEWLINE}}}
+# Senior Scientist {{{NEWLINE}}}
+# [[mailto:kdm@geus.dk][kdm@geus.dk]] {{{NEWLINE}}}{{{NEWLINE}}}
+# #+end_center
+# #+end_sidebar
+
+I am a senior scientist at the Geological Survey of Denmark and Greenland (GEUS) in the Department of Glaciology and Climate. I study ice sheet hydrology, ice/ocean interactions, and ice-proximal oceanography using a combination of observational fieldwork, low-cost robotic vehicles, remote sensing and novel sensors and algorithms. 
+
+My research spans the path of a drop of water from when it melts on the surface (or at the base) of the ice sheet, flows through and under the ice sheet, and is exhausted into a Greenland fjord or under an Antarctic ice shelf. The water is then one half of the ice/ocean boundary, and this freshwater flux is increasing in the warming climate. Further downstream, the meltwater modifies fjord properties and coastal seas, changing oceanic and ice conditions. For more information, please read the relevant [[#publications][publications]] or my [[http://kenmankoff.com/mankoff_cv.pdf][CV]].
+
+* News                                                             :noexport:
+:PROPERTIES:
+:CUSTOM_ID: news
+:END:
+
+*** 2016-09 -- 2016-10  Hornsund Fieldwork
+
+Mapping a subglacial conduit
+
+*** 2015 -- 2017 Computational fluid dynamics modeling of a subglacial conduit
+
+A new research project from NSF to study the hydraulics in subglacial conduits.
+
+* Publications
+:PROPERTIES:
+:CUSTOM_ID: publications
+:END:
+
+#+BEGIN_note
+My publication list can also viewed on my [[http://scholar.google.com/citations?user=hwzuz4UAAAAJ][Google Scholar Profile]].
+#+END_note
+
+@@html:<ol reversed>@@
+
+{{{LI}}} K. D. Mankoff, J. D. Gulley, S. M. Tulaczyk, M. D. Covington, X. Liu, Y. Chen, D. I. Benn, and P. S. Głowacki. "Roughness of a subglacial conduit under Hansbreen, Svalbard". Journal of Glaciology. {{{DOI(10.1017/jog.2016.134)}}}
+
+{{{LI}}} K. D. Mankoff and S. M. Tulaczyk. "The past, present, and future viscous heat dissipation available for Greenland subglacial conduit formation". The Cryosphere. 2017 11 303--317. {{{DOI(10.5194/tc-11-303-2017)}}} {{{PDF(Mankoff_2017_The_past_present_and.pdf)}}}
+
+{{{LI}}} K. D. Mankoff, F. Straneo, C. Cenedese, S. B. Das, C. G. Richards, and H. Singh. "Structure and dynamics of a subglacial discharge plume in a Greelandic fjord". Journal of Geophysical Research: Oceans. 2016, 121(12) 8670-8688. {{{DOI(10.1002/2016JC011764)}}} {{{PDF(Mankoff_2016_Structure_and_dynamics_of.pdf)}}}
+
+{{{LI}}} J. A. Mikucki, P. A. Lee, D. Ghosh, A. M. Purcell, A. C. Mitchell, K. D. Mankoff, A. T. Fisher, S. Tulaczyk, S. Carter, M. R. Siegfried, H. A. Fricker, T. Hodson, J. Coenen, R. Powell, R. Scherer, T. Vick-Majors, A. A. Achberger, B. C. Christner, and M. Tranter. "Subglacial Lake Whillans microbial biogeochemistry: a synthesis of current knowledge". Philosophical Transactions of the Royal Society A. 2015, 374 (2059), 20140290. {{{DOI(10.1098/rsta.2014.0290)}}}. {{{PDF(Mikucki_2016_Subglacial_Lake_Whillans_microbial.pdf)}}}
+
+{{{LI}}} A. T. Fisher, K. D. Mankoff, S. M. Tulaczyk, S. W. Tyler, N. Foley, and the WISSARD Science Team. "High Geothermal Heat Flux Measured below the West Antarctic Ice Sheet". Science Advances. 2015, 1 (6), e1500093. {{{DOI(10.1126/sciadv.1500093)}}}. {{{PDF(Fisher_2015_High_Geothermal_Heat_Flux.pdf)}}}
+
+{{{LI}}} A. A. Harpold, J. A. Marshall, S. W. Lyon, T. B. Barnhart, B. Fisher, M. Donovan, K. M. Brubaker, C. J. Crosby, N. F. Glenn, C. L. Glennie, P. B. Kirchner, N. Lam, K. D. Mankoff, J. L. McCreight, N. P. Molotch, K. N. Musselman, J. Pelletier, T. Russo, H. Sangireddy, Y. Sjoberg, T. Swetnam, and N. West. "Laser Vision: Lidar as a Transformative Tool to Advance Critical Zone Science". Hydrology and Earth System Sciences. 2015, 19, 2881–2897. {{{DOI(10.5194/hess-19-2881-2015)}}}. {{{PDF(Harpold_2015_Laser_vision_lidar_as.pdf)}}}
+
+{{{LI}}}P. Kimball, J. Bailey, S. B. Das, R. Geyer, T. Harrison, C. Kunz, K. Manganini, K. D. Mankoff, K. Samuelson, T. Sayre-McCord, F. Straneo, P. Traykovski, and H. Singh. "The WHOI Jetyak: An Autonomous Surface Vehicle for Oceanographic Research in Shallow or Dangerous Waters". 2014 IEEE/OES Autonomous Underwater Vehicles (AUV). 1-7. 2014. {{{DOI(10.1109/AUV.2014.7054430)}}}. {{{PDF(Kimball_2014_The_WHOI_Jetyak_An.pdf)}}}
+
+# {{{LI}}}B. C. Christner, J. C. Priscu, A. M. Achberger, C. Barbante, S. P. Carter, K. Christianson, A. B. Bichaud, J. A. Mikucki, A. C. Mitchell, M. L. Skidmore, T. J. Vick-Majors, and The WISSARD Science Team. "A microbial ecosystem beneath the West Antarctic ice sheet". Nature, 512:310 - 313. 2014. {{{DOI(10.1038/nature13667)}}}. {{{PDF(Christner_2014_A_microbial_ecosystem_beneath.pdf)}}}
+
+{{{LI}}}S. M. Tulaczyk, J. A. Mikucki, M. R. Siegfried, C. G. Barcheck, L.
+H. Beem, A. Behar, J. Burnett, B. C. Christner, A. T. Fisher, H. A.
+Fricker, K. D. Mankoff, F. Rack, J. C. Priscu, R. D. Powell, D.
+Sampson, R. P. Scherer, S. Y. Schwartz, and the WISSARD Science Team.
+WISSARD at subglacial Lake Whillans: Scientific operations and initial
+observations. Journal of Glaciology, 5(65), 2014. {{{DOI(10.3189/2014AoG65A009)}}}. {{{PDF(Tulaczyk_2014_WISSARD_at_Subglacial_Lake.pdf)}}}
+
+{{{LI}}} K. D. Mankoff and T. A. Russo. The Kinect: A low-cost,
+high-resolution, short-range, 3D camera. Earth Surface Processes and
+Landforms, 38(9):926 - 936, 2013. {{{DOI(10.1002/esp.3332)}}}. {{{PDF(Mankoff_2013_The_Kinect_A_low-cost_high-resolution.pdf)}}}
+
+{{{LI}}} K. D. Mankoff, S. S. Jacobs, S. M. Tulaczyk, and S. E.
+Stammerjohn. The role of Pine Island Glacier ice shelf basal channels
+in deep-water upwelling, polynyas and ocean circulation in Pine Island
+Bay, Antarctica. Annals of Glaciology, 53(60):23 - 28, 2012. {{{DOI(10.3189/2012AoG60A062)}}}. {{{PDF(Mankoff_2012_The_role_of_Pine_Island.pdf)}}}
+
+{{{LI}}} S. P. Shukla, M. A. Chandler, J. Jonas, L. E. Sohl, K. D.
+Mankoff, and H. J. Dowsett. Impact of a Permanent El Nino and Indian
+Ocean Dipole in Warm Pliocene Climates. Paleoceanography,
+24(PA2221), 2009. {{{DOI(10.1029/2008PA001682)}}}. {{{PDF(Shukla_2009_Impact_of_a_Permanent_El_Nino.pdf)}}}
+
+{{{LI}}} L. T. Huffman, R. H. Levy, L. Lacy, D. M. Harwood, M. Berg, M.
+Cattadori, J. Diamond, J. Dooley, L. Dahlman, R. Frisch-Gleason, J.
+Hubbard, R. Lehmann, K. D. Mankoff, V. Miller, K. Pound, G. S. di
+Clemente, A. Siegmund, J. Thomson, E. Trummel, R. Williams, and The
+ANDRILL SMS Project Science Team. Education and Outreach in the
+ANDRILL McMurdo Ice Shelf (MIS) and the Southern McMurdo Sound (SMS)
+Projects, Antarctica. Terra Antarctica, 15(1):221 - 235, 2008. {{{PDF(Huffman_2008_Education_and_Outreach_in_the_ANDRILL.pdf)}}}
+
+{{{LI}}} S. M. Petrinec, W. L. Imhof, C. A. Barth, K. D. Mankoff, D. N.
+Baker, and J. G. Luhmann. Com- parisons of thermospheric high-latitude
+nitric oxide observations from SNOE and global auroral X-ray
+bremsstrahlung observations from PIXIE. Journal of Geophysical
+Research, 108(A3):1223, 2003. {{{DOI(10.1029/2002JA009451>10.1029/2002JA009451)}}}. {{{PDF(Petrinec_2003_Comparisons_of_thermospheric_high-latitude.pdf)}}}
+
+{{{LI}}} C. A. Barth, K. D. Mankoff, S. M. Bailey, and S. C. Solomon.
+Global observations of nitric oxide in the thermosphere. Journal of
+Geophysical Research, 108(A1):1027, 2003. {{{DOI(10.1029/2002JA009458)}}}. {{{PDF(Barth_2003_Global_observations_of_nitric.pdf)}}}
+
+{{{LI}}} C. A. Barth, D. N. Baker, K. D. Mankoff, and S. M. Bailey.
+Magnetospheric control of the energy input into the thermosphere.
+Geophysical Research Letters, 29(13):1629, 2002. {{{DOI(10.1029/2001GL014362)}}}. {{{PDF(Barth_2002_Magnetospheric_control_of_the_energy.pdf)}}}
+
+{{{LI}}} D. N. Baker, C. A. Barth, K. D. Mankoff, S. G. Kanekal, S. M.
+Bailey, G. M. Mason, and J. E. Mazur. Relationships between
+precipitating auroral zone electrons and lower thermospheric nitric
+oxide densities: 1998-2000. Journal of Geophysical Research,
+106(A11):24465 - 24480, 2001. {{{DOI(10.1029/2001JA000078)}}}. {{{PDF(Baker_2001_Relationships_between_precipitating.pdf)}}}
+
+{{{LI}}} C. A. Barth, D. N. Baker, K. D. Mankoff, and S. M. Bailey. The
+northern auroral region as observed in nitric oxide. Geophysical
+Research Letters, 38(8):1463 - 1466, 2001. {{{DOI(10.1029/2000GL012649)}}}. {{{PDF(Barth_2001_The_northern_auroral_region.pdf)}}}
+
+@@html:</ol>@@
+
+
+* Presentations                                                    :noexport:
+:PROPERTIES:
+:CUSTOM_ID: presentations
+:END:
+I have given more than 100 invited talks on both my research and general climate change since 2007, at locations including United Nations General Assembly Room, Amundsen-Scott South Pole Station, the National Science Foundation headquarters in Washington, DC, many New York City Public Schools, and elsewhere.
+
+** Selected Invited Talks
+:PROPERTIES:
+:CUSTOM_ID: talks
+:END:
+
+@@html:<ol reversed>@@
+
+{{{LI}}} K. D. Mankoff. Monitoring ice/ocean interactions in Greenland. University of Rhode Island, Graduate School of Oceanography, Narragansett, RI, March 2017.
+
+{{{LI}}} K. D. Mankoff. A micro- and macro- view of thermal processes in subglacial 
+conduits. University of Silesia, Katowice, Poland, June 2016.
+
+{{{LI}}} K. D. Mankoff. Greenland subglacial hydrology into conduits and into fjords. École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland, February 2016.
+
+{{{LI}}} K. D. Mankoff. Greenland subglacial hydrology upstream and into fjords. University of Rhode Island, Graduate School of Oceanography, Narragansett, RI, June 2014.
+
+{{{LI}}} K. D. Mankoff. Mapping and Modeling Subglacial Conduits with a Low-Cost 3D Camera, Novel Algorithms, and Computational Fluid Dynamics. NASA Goddard Institute for Space Studies (GISS), New York, New York, 2013.
+
+{{{LI}}} K. D. Mankoff. Using the Microsoft Kinect to Map Cave Surfaces. Subglacial Workshop. Engabreen Tunnel, Svartisen, Norway, 2012.
+
+{{{LI}}} K. D. Mankoff. Pale Blue Truth (A live oral presentation of An Inconvenient Truth and introduction to EdGCM). National Science Foundations (NSF) Headquarters. Washington, DC, 2008.
+
+{{{LI}}} K. D. Mankoff. Pale Blue Truth: A Live Custom Version of An Inconvenient Truth. Amundsen-Scott South Pole Station. South Pole, Antarctica, 2007.
+
+{{{LI}}} K. D. Mankoff. Pale Blue Truth. McMurdo Station, Antarctica. McMurdo Station, Antarctia, 2007.
+
+{{{LI}}} K. D. Mankoff. An Inconvenient Truth. United Nations General Assembly Room, UNIS-UN Conference. The United Nations, 2007.
+
+{{{LI}}} K. D. Mankoff. MarsClock: A Clock for Mars. Keynote talk at Palmsource Developers Conference. San Francisco, CA, 2004.
+
+@@html:</ol>@@
+
+** Posters (First Author)					   :noexport:
+:PROPERTIES:
+:CUSTOM_ID: posters
+:END:
+
+
+I have given more than 100 invited talks on both my research and general climate change since 2007, at locations including United Nations General Assembly Room, Amundsen-Scott South Pole Station, the National Science Foundation headquarters in Washington, DC, many New York City Public Schools, and elsewhere.
+
+@@html:<ol reversed>@@
+
+
+# FRISP 2017
+# # Poland and EPFL 2016, URI 2017 were invited talks
+# Cambridge, UK 2015
+# AGU 2014
+
+{{{LI}}} K. D. Mankoff and J. Gulley. Small scale high resolution LiDAR measurements of a subglacial conduit. Geophysical Research Abstracts. Vol. 14. Abstract #EGU2012-245. Vienna, Austria: EGU General Assembly, 2012.
+
+{{{LI}}} K. D. Mankoff and T. A. Russo. The Kinect as a low cost high resolution small scale LiDAR for water surface and shallow subsurface measurements. Geophysical Research Abstracts. Vol. 14. Abstract #EGU2012-244-1. Vienna, Austria: EGU General Assembly, 2012.
+
+{{{LI}}} K. D. Mankoff and J. Gulley. A 3D Surface of the Interior of a Sub-Glacial Cave Acquired Using a Microsoft Kinect as a LIDAR Sensor. Association of American Geographers Annual Meeting. New York, NY, 2012.
+
+{{{LI}}} K. D. Mankoff and S. E. Stammerjohn. Mixing and circulation of ice shelf and ocean waters in Pine Island Bay derived from SST and sea ice. American Geophysical Union, Ocean Sciences Meeting. Salt Lake City, UT, 2012.
+
+{{{LI}}} K. D. Mankoff, T. A. Russo, B. K. Norris, S. Hossainzadeh, L. H. Beem, J. I. Walter, and S. M. Tulaczyk. Kinects as sensors in earth science: glaciological, geomorphological, and hydrological applications. American Geophysical Union, Fall Meeting. Abstract #C41D-0442. San Francisco, CA, 2011.
+
+{{{LI}}} K. D. Mankoff, S. E. Stammerjohn, S. M. Tulaczyk, S. S. Jacobs, and K. A. Gavahan. Ocean and ice properties at the calving edge of the Pine Island Glacier and Dotson Ice Shelf, Antarctica. International Symposium on Interactions of Ice Sheets and Glaciers with the Ocean. San Diego, CA, 2011.
+
+{{{LI}}} K. D. Mankoff, K. A. Gavahan, E. M. Randall-Goodwin, R. M. Sherrell, P. L. Yager, and S. E. Stammerjohn. Ocean and ice properties at the calving edge of the Dotson Ice Shelf. Gordon Polar Research Conference. Ventura, CA, 2011.
+
+{{{LI}}} K. D. Mankoff, S. S. Jacobs, K. C. Leonard, C. M. Little, K. A. Gavahan, and F. O. Nitsche. Pine Island Glacier Ice Shelf: Draft, Outflow Channels, and Polynyas as Observed via Fieldwork, Modeling, and Spacecraft. American Geophysical Union, Fall Meeting. San Francisco, CA, 2009.
+
+{{{LI}}} K. D. Mankoff and The ANDRILL SMS Project Science Team. An ANDRILL SMS ARISE Educational Software Package: From a microscope in Antarctica 20 million years ago to a global overview 100 years in the future. SCAR / IASC Open Science Conference. St. Petersburg, Russia, 2008.
+
+{{{LI}}} K. D. Mankoff, M. A. Chandler, S. J. Richards, L. E. Sohl, and M. F. Shopsin. A Sampling of EdGCM Experiments: Paleo to Future, Regional to Global. Teaching Climate Change Workshop. Bozeman, MT, 2006.
+
+{{{LI}}} K. D. Mankoff, C. A. Barth, and S. M. Bailey. The Student Nitric Oxide Explorer (SNOE) Database. American Geophysical Union, Fall Meeting. San Francisco, CA, 2001.
+
+{{{LI}}} K. D. Mankoff, C. A. Barth, D. N. Baker, A. W. Merkel, S. M. Petrinec, D. L. Chenette, W. L. Imhof, J. G. Luhmann, S. G. Kanekal, and G. M. Mason. Comparison of SNOE, POLAR, and SAMPEX Observations of the Magnetosphere-Thermosphere Interaction During the 1998 Geomagnetic Storms. American Geophysical Union, Spring Meeting. Washington, DC, 2000.
+
+@@html:</ol>@@
+
+* Recent and Ongoing Research                                      :noexport:
+:PROPERTIES:
+:CUSTOM_ID: research
+:END:
+
+I use in-situ data, remotely-sensed data, traditional and novel sensors and algorithms, and low-cost robotic platforms to investigate glaciers, glacier hydrology, and the ice/ocean boundary.
+
+** PROMICE
+:PROPERTIES:
+:CUSTOM_ID: PROMICE
+:END:
+
++ New work as of 2017-08-01 at [[http://geus.dk][GEUS]]
++ See http://promice.org/
+
+** Subglacial Conduits
+:PROPERTIES:
+:CUSTOM_ID: subglacial
+:END:
+
+I have repeatedly mapped a segment of a subglacial conduit at mm resolution. The conduit was accessed by rapelling down a moulin in Hornsund, Svalbard, after a lake drainage event. In general, subglacial conduits have two opposing influences on the overhead ice: Either they act as high-pressure hydrological sources, contributing additional water to the distributed system and glacier bed, reducing basal friction, and accelerating the ice toward the sea, or they act as low-pressure hydrological sinks, drawing in water from their surroundings and reducing glacier velocity. As part of his Ph.D. [[https://scholar.google.com/citations?user=Hqs8G8YAAAAJ&hl=en][Yunxiang Chen]] is using the digital conduit maps as boundary conditions for a computational fluid dynamics model, examining the effects of skin and form roughness on the water pressure within the subglacial conduit.
+
++ Conduit mapping was funded by the Svalbard Science Forum and National Geographic.
++ CFD simulations funded by the National Science Foundation award #1503928.
+
+** Greenland Meltwater Runoff
+:PROPERTIES:
+:CUSTOM_ID: greenland
+:END:
+
+Observations of marine-terminating glaciers in Greenland (and Antarctica) show that increased velocity, thinning, and retreat is contributing to accelerating sea level rise. Increasing surface melt, runoff, and frontal melting are contributing increasing freshwater fluxes into Greenland fjords and into the downstream oceanic system.
+
+These fjords are the connection between the warming North Atlantic waters and the melting ice front, and the complex dynamical processes in them are not fully understood. My research focuses on the subglacial outflow, and how the buoyant freshwater plume mixes into the fjord.
+
+** Pine Island Glacier Ice Shelf                                   :noexport:
+:PROPERTIES:
+:CUSTOM_ID: PIG
+:END:
+
+Pine Island Glacier ice shelf, the floating tongue of the fastest ice stream in West Antarctica, has experienced recent acceleration and thinning, primarily due to rapid melting by relatively warm ocean waters accessing the grounding zone and base of the ice shelf.
+
+While sub-ice shelf outflow plumes had long been assumed and occasionally observed at the edge of other ice shelves, and modeled at the PIG ice shelf, my observations confirmed the sub-shelf plume at this location. More recent additional work on PIG has shown high melt rates in the upstream sub-shelf basal conduits, and that sub-shelf conduits are both widespread and connected to upstream subglacial hydrology.
+
