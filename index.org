@@ -84,7 +84,7 @@ A new research project from NSF to study the hydraulics in subglacial conduits.
 :END:
 
 #+BEGIN_note
-My publication list can also viewed on my [[http://scholar.google.com/citations?user=hwzuz4UAAAAJ][Google Scholar Profile]].
+My publication list can also viewed on my [[https://goo.gl/yJCdV6][Google Scholar Profile]].
 #+END_note
 
 @@html:<ol reversed>@@
