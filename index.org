@@ -29,11 +29,13 @@
 :CUSTOM_ID: contact
 :END:
 
-| Home Page | http://kenmankoff.com                        |
-| Email     | [[mailto:Ken Mankoff <kdm@geus.dk>][kdm@geus.dk]]                                  |
-| Twitter   | [[http://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
-| CV        | http://kenmankoff.com/mankoff_cv.pdf         |
+| Home Page        | http://kenmankoff.com                        |
+| Email (work)     | [[mailto:Ken Mankoff <kdm@geus.dk>][kdm@geus.dk]]                                  |
+| Email (personal) | [[mailto:Ken Mankoff <mankoff@gmail.com>][mankoff@gmail.com]]    |
+| Twitter          | [[http://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
+| CV               | http://kenmankoff.com/mankoff_cv.pdf         |
 
+# | CV of failures   | http://kenmankoff.com/mankoff_cv.pdf         |
 # | GitHub    | http://github.com/mankoff                    |
 
 ** Work Address
@@ -42,7 +44,7 @@ Ken Mankoff {{{NEWLINE}}}
 Geological Survey of Denmark and Greenland (GEUS){{{NEWLINE}}}
 Department of Glaciology and Climate{{{NEWLINE}}}
 Øster Voldgade 10{{{NEWLINE}}}
-1350 København K., Denmark
+1350 Copenhagen K., Denmark
 * About Me
 :PROPERTIES:
 :CUSTOM_ID: about
