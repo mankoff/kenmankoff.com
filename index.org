@@ -31,9 +31,9 @@
 
 | Home Page        | http://kenmankoff.com                        |
 | Email (work)     | [[mailto:Ken Mankoff <kdm@geus.dk>][kdm@geus.dk]]                                  |
-| Email (personal) | [[mailto:Ken Mankoff <mankoff@gmail.com>][mankoff@gmail.com]]    |
+| Email (personal) | [[mailto:Ken Mankoff <mankoff@gmail.com>][mankoff@gmail.com]]                            |
 | Twitter          | [[http://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
-| CV               | http://kenmankoff.com/mankoff_cv.pdf         |
+| CV               | [[http://kenmankoff.com/mankoff_cv_A4.pdf][A4 PDF]] or [[http://kenmankoff.com/mankoff_cv.pdf][Letter PDF]]                         |
 
 # | CV of failures   | http://kenmankoff.com/mankoff_cv.pdf         |
 # | GitHub    | http://github.com/mankoff                    |
