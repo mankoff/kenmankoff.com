@@ -16,11 +16,11 @@
 # #+MACRO: longtext this is a very very long text to include
 
 #+MACRO: NEWLINE @@latex:\\@@ @@html:<br>@@
-#+MACRO: DOI @@html:DOI: <a href="http://dx.doi.org/$1">$1</a>@@
-#+MACRO: PDF @@html:[<a href="http://kenmankoff.com/data/$1">PDF</a>]@@
+#+MACRO: DOI @@html:DOI: <a href="https://dx.doi.org/$1">$1</a>@@
+#+MACRO: PDF @@html:[<a href="https://kenmankoff.com/data/$1">PDF</a>]@@
 #+MACRO: LI @@html:<li>@@
 
-# #+MACRO: PDF @@html:[<a href="http://kenmankoff.com/pubs/$1"><img src="./img/pdf.gif" width="12px"></a>]@@
+# #+MACRO: PDF @@html:[<a href="https://kenmankoff.com/pubs/$1"><img src="./img/pdf.gif" width="12px"></a>]@@
 
 # #+TOC: headlines 2
 
@@ -29,14 +29,14 @@
 :CUSTOM_ID: contact
 :END:
 
-| Home Page        | http://kenmankoff.com                        |
+| Home Page        | https://kenmankoff.com                       |
 | Email (work)     | [[mailto:Ken Mankoff <kdm@geus.dk>][kdm@geus.dk]]                                  |
 | Email (personal) | [[mailto:Ken Mankoff <mankoff@gmail.com>][mankoff@gmail.com]]                            |
-| Twitter          | [[http://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
-| CV               | [[http://kenmankoff.com/mankoff_cv_A4.pdf][A4 PDF]] or [[http://kenmankoff.com/mankoff_cv.pdf][Letter PDF]]                         |
+| Twitter          | [[https://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
+| CV               | [[https://kenmankoff.com/mankoff_cv_A4.pdf][A4 PDF]] or [[https://kenmankoff.com/mankoff_cv.pdf][Letter PDF]]                       |
 
-# | CV of failures   | http://kenmankoff.com/mankoff_cv.pdf         |
-# | GitHub    | http://github.com/mankoff                    |
+# | CV of failures   | https://kenmankoff.com/mankoff_cv.pdf         |
+# | GitHub    | https://github.com/mankoff                    |
 
 ** Work Address
 
@@ -63,7 +63,7 @@ Department of Glaciology and Climate{{{NEWLINE}}}
 
 I am a senior scientist at the Geological Survey of Denmark and Greenland (GEUS) in the Department of Glaciology and Climate. I study ice sheet hydrology, ice/ocean interactions, and ice-proximal oceanography using a combination of observational fieldwork, low-cost robotic vehicles, remote sensing and novel sensors and algorithms. 
 
-My research spans the path of a drop of water from when it melts on the surface (or at the base) of the ice sheet, flows through and under the ice sheet, and is exhausted into a Greenland fjord or under an Antarctic ice shelf. The water is then one half of the ice/ocean boundary, and this freshwater flux is increasing in the warming climate. Further downstream, the meltwater modifies fjord properties and coastal seas, changing oceanic and ice conditions. For more information, please read the relevant [[#publications][publications]] or my [[http://kenmankoff.com/mankoff_cv.pdf][CV]].
+My research spans the path of a drop of water from when it melts on the surface (or at the base) of the ice sheet, flows through and under the ice sheet, and is exhausted into a Greenland fjord or under an Antarctic ice shelf. The water is then one half of the ice/ocean boundary, and this freshwater flux is increasing in the warming climate. Further downstream, the meltwater modifies fjord properties and coastal seas, changing oceanic and ice conditions. For more information, please read the relevant [[#publications][publications]] or my [[https://kenmankoff.com/mankoff_cv.pdf][CV]].
 
 * News                                                             :noexport:
 :PROPERTIES:
@@ -253,8 +253,8 @@ I use in-situ data, remotely-sensed data, traditional and novel sensors and algo
 :CUSTOM_ID: PROMICE
 :END:
 
-+ New work as of 2017-08-01 at [[http://geus.dk][GEUS]]
-+ See http://promice.org/
++ New work as of 2017-08-01 at [[https://geus.dk][GEUS]]
++ See https://promice.org/
 
 ** Subglacial Conduits
 :PROPERTIES:
