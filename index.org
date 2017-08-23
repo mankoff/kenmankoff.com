@@ -160,6 +160,21 @@ Research Letters, 38(8):1463 - 1466, 2001. {{{DOI(10.1029/2000GL012649)}}}. {{{P
 
 @@html:</ol>@@
 
+* Google Analytics                                            :ignoreheading:
+
+#+BEGIN_EXPORT html
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85987-8', 'auto');
+  ga('send', 'pageview');
+
+</script>
+#+END_EXPORT
+
 
 * Presentations                                                    :noexport:
 :PROPERTIES:
@@ -283,4 +298,3 @@ These fjords are the connection between the warming North Atlantic waters and th
 Pine Island Glacier ice shelf, the floating tongue of the fastest ice stream in West Antarctica, has experienced recent acceleration and thinning, primarily due to rapid melting by relatively warm ocean waters accessing the grounding zone and base of the ice shelf.
 
 While sub-ice shelf outflow plumes had long been assumed and occasionally observed at the edge of other ice shelves, and modeled at the PIG ice shelf, my observations confirmed the sub-shelf plume at this location. More recent additional work on PIG has shown high melt rates in the upstream sub-shelf basal conduits, and that sub-shelf conduits are both widespread and connected to upstream subglacial hydrology.
-
