@@ -29,12 +29,12 @@
 :CUSTOM_ID: contact
 :END:
 
-| Home Page        | http://kenmankoff.com                       |
-| Email (work)     | [[mailto:Ken Mankoff <kdm@geus.dk>][kdm@geus.dk]]                                  |
-| Email (personal) | [[mailto:Ken Mankoff <mankoff@gmail.com>][mankoff@gmail.com]]                            |
-| Twitter          | [[https://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
-| CV               | [[http://kenmankoff.com/mankoff_cv_A4.pdf][A4 PDF]] or [[http://kenmankoff.com/mankoff_cv.pdf][Letter PDF]]                         |
+| Home Page        | http://kenmankoff.com |
+| Email (work)     | [[mailto:Ken Mankoff <kdm@geus.dk>][kdm@geus.dk]]           |
+| Email (personal) | [[mailto:Ken Mankoff <mankoff@gmail.com>][mankoff@gmail.com]]     |
+| CV               | [[http://kenmankoff.com/mankoff_cv_A4.pdf][A4 PDF]] or [[http://kenmankoff.com/mankoff_cv.pdf][Letter PDF]]  |
 
+# | Twitter          | [[https://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
 # | CV of failures   | http://kenmankoff.com/mankoff_cv.pdf         |
 # | GitHub    | http://github.com/mankoff                    |
 
@@ -159,9 +159,6 @@ northern auroral region as observed in nitric oxide. Geophysical
 Research Letters, 38(8):1463 - 1466, 2001. {{{DOI(10.1029/2000GL012649)}}}. {{{PDF(Barth_2001_The_northern_auroral_region.pdf)}}}
 
 @@html:</ol>@@
-
-
-* Google Analytics                                            :ignoreheading:
 
 #+BEGIN_EXPORT html
 <script>
