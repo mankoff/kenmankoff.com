@@ -50,9 +50,6 @@ Department of Glaciology and Climate{{{NEWLINE}}}
 :CUSTOM_ID: about
 :END:
 
-#+ATTR_HTML: :width 500
-[[./mankoff.jpg]]
-
 # #+begin_sidebar
 # #+begin_center
 # Ken Mankoff {{{NEWLINE}}}
@@ -61,9 +58,30 @@ Department of Glaciology and Climate{{{NEWLINE}}}
 # #+end_center
 # #+end_sidebar
 
-I am a senior scientist at the [[http://geus.dk][Geological Survey of Denmark and Greenland (GEUS)]] in the [[http://www.geus.dk/natur-og-klima/][Department of Glaciology and Climate]]. I study ice sheet hydrology, ice/ocean interactions, and ice-proximal oceanography using a combination of observational fieldwork, low-cost robotic vehicles, remote sensing and novel sensors and algorithms. 
+I am a senior scientist at the [[http://geus.dk][Geological Survey of Denmark and Greenland (GEUS)]] in the [[http://www.geus.dk/natur-og-klima/][Department of Glaciology and Climate]]. 
 
-My research spans the path of a drop of water from when it melts on the surface (or at the base) of the ice sheet, flows through and under the ice sheet, and is exhausted into a Greenland fjord or under an Antarctic ice shelf. The water is then one half of the ice/ocean boundary, and this freshwater flux is increasing in the warming climate. Further downstream, the meltwater modifies fjord properties and coastal seas, changing oceanic and ice conditions. For more information, please read the relevant [[#publications][publications]] or my [[http://kenmankoff.com/mankoff_cv.pdf][CV]].
+I am formally trained as a computer scientist and earth scientist focusing on polar glacier hydrology and oceanography. I regularly work or have worked in the following areas:
+
++ *Leading logistically complicated field campaigns* with international stakeholders and participants ranging from multi-national corporations to Ph.D. students.
+
++ *Collecting data* from high-risk remote field sites such as underneath a glacier, within a crevasse field, or from the ocean at the edge of calving glaciers.
+
++ *Custom or novel sensor* life-cycle - Design, development, construction, deployment, operation, and field repair/debugging.
+
++ *Remote sensing* including spacecraft operations and mission control, sensor calibration, and end-user imagery use.
+
++ *Reproducible computational workflows* and scientific publications using open source tools.
+
++ *Public outreach* and education including popular press interviews, museum display creation, and speaking engagements on all seven continents from the U.N. General Assembly Room to kindergarten classrooms.
+
+For more information, please read the relevant [[#publications][publications]] or my [[http://kenmankoff.com/mankoff_cv.pdf][CV]].
+
+#+ATTR_HTML: :width 500
+[[./mankoff.jpg]]
+
+# I study ice sheet hydrology, ice/ocean interactions, and ice-proximal oceanography using a combination of observational fieldwork, low-cost robotic vehicles, remote sensing and novel sensors and algorithms. 
+
+# My research spans the path of a drop of water from when it melts on the surface (or at the base) of the ice sheet, flows through and under the ice sheet, and is exhausted into a Greenland fjord or under an Antarctic ice shelf. The water is then one half of the ice/ocean boundary, and this freshwater flux is increasing in the warming climate. Further downstream, the meltwater modifies fjord properties and coastal seas, changing oceanic and ice conditions. For more information, please read the relevant [[#publications][publications]] or my [[http://kenmankoff.com/mankoff_cv.pdf][CV]].
 
 * News                                                  :noexport:
 :PROPERTIES:
@@ -89,9 +107,9 @@ My publication list can also viewed on my [[https://goo.gl/yJCdV6][Google Schola
 
 @@html:<ol reversed>@@
 
-{{{LI}}} W. Colgan, K. D. Mankoff, K. K. Kjeldsen, A. A. Bjørk, J. E. Box, S. B. Simonsen, L. S. Sørensen, S. A. Khan, A. M. Solgaard, R. Forsberg, H. Skourup, L. Stenseng, S. S. Kristensen, S. Hvidegaard, M. Citterio, N. Karlsson, X. Fettweis, A. P. Ahlstrøm, S. B. Andersen, D. van As, and R. S. Fausto. "Greenland ice sheet mass balance assessed by PROMICE (19952015)". Geological Survey of Denmark and Greenland Bulletin. 2019, 43, e2019430201. {{{DOI(10.34194/GEUSB-201943-02-01)}}} {{{PDF(https://eng.geus.dk/media/21862/geusb-201943-02-01.pdf)}}}.
+{{{LI}}} W. Colgan, K. D. Mankoff, K. K. Kjeldsen, A. A. Bjørk, J. E. Box, S. B. Simonsen, L. S. Sørensen, S. A. Khan, A. M. Solgaard, R. Forsberg, H. Skourup, L. Stenseng, S. S. Kristensen, S. Hvidegaard, M. Citterio, N. Karlsson, X. Fettweis, A. P. Ahlstrøm, S. B. Andersen, D. van As, and R. S. Fausto. "Greenland ice sheet mass balance assessed by PROMICE (1995 -- 2015)". Geological Survey of Denmark and Greenland Bulletin. 2019, 43, e2019430201. {{{DOI(10.34194/GEUSB-201943-02-01)}}} {{{PDF(https://eng.geus.dk/media/21862/geusb-201943-02-01.pdf)}}}.
 
-{{{LI}}} K. D. Mankoff, W. Colgan, A. Solgaard, N. B. Karlsson, A. P. Ahlstrøm, D. van As, J. E. Box, S. A. Khan, K. K. Kjeldsen, J. Mouginot, and R. S. Fausto. "Greenland Ice Sheet solidd ice discharge from 1986 through 2017". Earth System Science Data. 2019, 11 (2), {{{DOI(769–786.10.5194/essd-11-769-2019)}}} {{{PDF(https://www.earth-syst-sci-data.net/11/769/2019/essd-11-769-2019.pdf)}}}.
+{{{LI}}} K. D. Mankoff, W. Colgan, A. Solgaard, N. B. Karlsson, A. P. Ahlstrøm, D. van As, J. E. Box, S. A. Khan, K. K. Kjeldsen, J. Mouginot, and R. S. Fausto. "Greenland Ice Sheet solid ice discharge from 1986 through 2017". Earth System Science Data. 2019, 11 (2), {{{DOI(769–786.10.5194/essd-11-769-2019)}}} {{{PDF(https://www.earth-syst-sci-data.net/11/769/2019/essd-11-769-2019.pdf)}}}.
 
 {{{LI}}} Y. Chen, X. Liu, J. D. Gulley, and K. D. Mankoff. "Subglacial Conduit Roughness: Insights From Computational Fluid Dynamics Models". Geophysical Research Letters. 2018, 45, (20), 11206-11218. {{{DOI(10.1029/2018gl079590)}}}
 
