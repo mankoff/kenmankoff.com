@@ -76,25 +76,63 @@ I am formally trained as a computer scientist and earth scientist focusing on po
 
 For more information, please read the relevant [[#publications][publications]] or my [[http://kenmankoff.com/mankoff_cv.pdf][CV]].
 
-#+ATTR_HTML: :width 500
-[[./mankoff.jpg]]
-
 # I study ice sheet hydrology, ice/ocean interactions, and ice-proximal oceanography using a combination of observational fieldwork, low-cost robotic vehicles, remote sensing and novel sensors and algorithms. 
 
 # My research spans the path of a drop of water from when it melts on the surface (or at the base) of the ice sheet, flows through and under the ice sheet, and is exhausted into a Greenland fjord or under an Antarctic ice shelf. The water is then one half of the ice/ocean boundary, and this freshwater flux is increasing in the warming climate. Further downstream, the meltwater modifies fjord properties and coastal seas, changing oceanic and ice conditions. For more information, please read the relevant [[#publications][publications]] or my [[http://kenmankoff.com/mankoff_cv.pdf][CV]].
 
-* News                                                  :noexport:
+
+* Photos
 :PROPERTIES:
-:CUSTOM_ID: news
+:CUSTOM_ID: photos
 :END:
 
-*** 2016-09 -- 2016-10  Hornsund Fieldwork
+Here are some photos from some of my fieldwork. Many of these have papers (listed below) describing the project in more detail.
 
-Mapping a subglacial conduit
+** Antarctic Selfie
+:PROPERTIES:
+:CUSTOM_ID: pic:selfie
+:END:
+#+ATTR_HTML: :width 500
+[[./fig/mankoff.jpg]]
 
-*** 2015 -- 2017 Computational fluid dynamics modeling of a subglacial conduit
+** Recovering an airplane engine from a crevasse field
+:PROPERTIES:
+:CUSTOM_ID: pic:A380
+:END:
+(Photo by Austin Lines)
+#+ATTR_HTML: :width 500
+[[./fig/A380.png]]
 
-A new research project from NSF to study the hydraulics in subglacial conduits.
+** Driving the WHOI JetYak
+:PROPERTIES:
+:CUSTOM_ID: pic:jetyak
+:END:
+#+ATTR_HTML: :width 500
+[[./fig/jetyak.png]]
+
+** Rappelling into a subglacial conduit cave
+:PROPERTIES:
+:CUSTOM_ID: pic:rappel
+:END:
+(Photo by Jason Gulley of Matt Covington)
+#+ATTR_HTML: :width 500
+[[./fig/covington_by_gulley.png]]
+
+** Working inside a subglacial conduit
+:PROPERTIES:
+:CUSTOM_ID: pic:conduit
+:END:
+(Photo by Matt Covington)
+#+ATTR_HTML: :width 500
+[[./fig/conduit_work.JPG]]
+
+** Pancake ice
+:PROPERTIES:
+:CUSTOM_ID: pic:pancake
+:END:
+#+ATTR_HTML: :width 500
+[[./fig/pancake.JPG]]
+
 
 * Publications
 :PROPERTIES:
