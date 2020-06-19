@@ -114,9 +114,9 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 :PROPERTIES:
 :CUSTOM_ID: pic:rappel
 :END:
-(Photo by Jason Gulley of Matt Covington)
+(Photo by Jennifer Macalady)
 #+ATTR_HTML: :width 500
-[[./fig/covington_by_gulley.png]]
+[[./fig/moulin.jpg]]
 
 ** Working inside a subglacial conduit
 :PROPERTIES:
@@ -140,27 +140,72 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 :END:
 
 #+BEGIN_note
-+ First-author publications listed below
-+ All publications can be viewed on my [[https://goo.gl/yJCdV6][Google Scholar Profile]].
++ My publication list can also viewed on my [[https://goo.gl/yJCdV6][Google Scholar Profile]].
 #+END_note
 
 @@html:<ol reversed>@@
 
-# {{{LI}}} *K. D. Mankoff*, .... "Greenland liquid water discharge from 1979 through 2017". Earth System Science Data. 20XX, XX (X), {{{DOI(10.5194/essd-XX-XX-XXXX)}}} [PDF TODO]
+{{{LI}}} *K. D. Mankoff*,  A. P. Ahlstrøm, W. Colgan, R. S. Fausto, X. Fettweis, K. Kondo, K. Langley, B. Noël, S. Sugiyama, and D. van As. "Greenland liquid water runoff from 1979 through 2017". Earth System Science Data Discussions. 2020. *In Review*. {{{DOI(10.5194/essd-2020-47)}}}
 
-{{{LI}}} *K. D. Mankoff*, A. Solgaard, W. Colgan, A. P. Ahlstrøm, D. van As, S. A. Khan, and R. S. Fausto. "Greenland Ice Sheet solid ice discharge from 1986 through 2019". Earth System Science Data Discussions. 2020. *In Review*. {{{DOI(10.5194/essd-2019-240)}}}
+{{{LI}}} *K. D. Mankoff*, A. Solgaard, W. Colgan, A. P. Ahlstrøm, S. A. Khan, and R. S. Fausto. "Greenland Ice Sheet solid ice discharge from 1986 through March 2020". Earth System Science Data. 2020, 12 (2), 1367-1383. {{{DOI(10.5194/essd-12-1367-2020)}}} {{{PDF(mankoff_2020_ice.pdf)}}}
 
-{{{LI}}} *K. D. Mankoff*, W. Colgan, A. Solgaard, N. B. Karlsson, A. P. Ahlstrøm, D. van As, J. E. Box, S. A. Khan, K. K. Kjeldsen, J. Mouginot, and R. S. Fausto. "Greenland Ice Sheet solid ice discharge from 1986 through 2017". Earth System Science Data. 2019, 11 (2), {{{DOI(10.5194/essd-11-769-2019)}}} [[[https://www.earth-syst-sci-data.net/11/769/2019/essd-11-769-2019.pdf][PDF]]]
+{{{LI}}} *K. D. Mankoff*, D. van As, A. Lines, T. Bording, J. Elliott, R. Kraghede, H. Cantalloube, H. Oriot, P. Dubois-Fernandez, O. Ruault du Plessis, A. Vest Christiansen, E. Auken, K. Hansen, W. Colgan, and N. B. Karlsson. "Search and recovery of aircraft parts in ice-sheet crevasse fields using airborne and in situ geophysical sensors". Journal of Glaciology. 2020, 66 (257), 496-508. {{{DOI(10.1017/jog.2020.26)}}} {{{PDF(mankoff_2020_A380.pdf)}}}
 
-{{{LI}}} *K. D. Mankoff*, J. D. Gulley, S. M. Tulaczyk, M. D. Covington, X. Liu, Y. Chen, D. I. Benn, and P. S. Głowacki. "Roughness of a subglacial conduit under Hansbreen, Svalbard". Journal of Glaciology. 2017, 239, 423--435. {{{DOI(10.1017/jog.2016.134)}}} {{{PDF(Mankoff_2017_Roughness_of_a_subglacial.pdf)}}}
+{{{LI}}} A. Kokhanovsky, J. E. Box, B. Vandecrux, *K. D. Mankoff*, M. Lamare, A. Smirnov, and M. Kern. "The Determination of Snow Albedo from Satellite Measurements Using Fast Atmospheric Correction Technique". Remote Sensing. 2020, 12 (2), 234. {{{DOI(10.3390/rs12020234)}}}
+
+{{{LI}}} A. Kokhanovsky, M. Lamare, O. Danne, C. Brockmann, M. Dumont, G. Picard, L. Arnaud, V. Favier, B. Jourdain, E. Lemeur, B. Di Mauro, T. Aoki, M. Niwano, V. Rozanov, S. Korkin, S. Kipfstuhl, J. Freitag, M. Hoerhold, A. Zuhr, D. Vladimirova, A.-K. Faber, H. C. Steen- Larsen, S. Wahl, J. K. Andersen, B. Vandecrux, D. van As, *K. D. Mankoff*, M. Kern, E. Zege, and J. E. Box. "Retrieval of Snow Properties from the Sentinel-3 Ocean and Land Colour Instrument". Remote Sensing. 2019, 11 (19), 2280. {{{DOI(10.3390/rs11192280)}}}
+
+{{{LI}}} *K. D. Mankoff*, W. Colgan, A. Solgaard, N. B. Karlsson, A. P. Ahlstrøm, D. van As, J. E. Box, S. A. Khan, K. K. Kjeldsen, J. Mouginot, and R. S. Fausto. "Greenland Ice Sheet solid ice discharge from 1986 through 2017". Earth System Science Data. 2019, 11 (2), 769-786. {{{DOI(10.5194/essd-11-769-2019)}}} [[[https://www.earth-syst-sci-data.net/11/769/2019/essd-11-769-2019.pdf][PDF]]]
+
+{{{LI}}} W. Colgan, *K. D. Mankoff*, K. K. Kjeldsen, A. A. Bjørk, J. E. Box, S. B. Simonsen, L. S. Sørensen, S. A. Khan, A. M. Solgaard, R. Forsberg, H. Skourup, L. Stenseng, S. S. Kristense n, S. Hvidegaard, M. Citterio, N. Karlsson, X. Fettweis, A. P. Ahlstrøm, S. B. Andersen, D. van As, and R. S. Fausto. "Greenland ice sheet mass balance assessed by PROMICE (1995 -- 2015)". Geological Survey of Denmark and Greenland Bulletin. 2019, 43, e2019430201. {{{DOI(10.34194/GEUSB-201943-02-01)}}} [[[https://eng.geus.dk/media/21862/geusb-201943-02-01.pdf][PDF]]]
+
+{{{LI}}} Y. Chen, X. Liu, J. D. Gulley, and *K. D. Mankoff*. "Subglacial Conduit Roughness: Insights From Computational Fluid Dynamics Models". Geophysical Research Letters. 2018, 45, (20), 11206-11218. {{{DOI(10.1029/2018gl079590)}}}
+
+{{{LI}}} *K. D. Mankoff*, J. D. Gulley, S. M. Tulaczyk, M. D. Covington, X. Liu, Y. Chen, D. I. Benn, and P. S. Głowacki. "Roughness of a subglacial conduit under Hansbreen, Svalbard". Journal of Glaciology. 2017, 239, 423--435. {{{DOI(10.1017/jog.2016.134)}}}
 
 {{{LI}}} *K. D. Mankoff* and S. M. Tulaczyk. "The past, present, and future viscous heat dissipation available for Greenland subglacial conduit formation". The Cryosphere. 2017, 11, 303--317. {{{DOI(10.5194/tc-11-303-2017)}}} {{{PDF(Mankoff_2017_The_past_present_and.pdf)}}}
 
 {{{LI}}} *K. D. Mankoff*, F. Straneo, C. Cenedese, S. B. Das, C. G. Richards, and H. Singh. "Structure and dynamics of a subglacial discharge plume in a Greelandic fjord". Journal of Geophysical Research: Oceans. 2016, 121(12), 8670-8688. {{{DOI(10.1002/2016JC011764)}}} {{{PDF(Mankoff_2016_Structure_and_dynamics_of.pdf)}}}
 
+{{{LI}}} T. O. Hodson, R. D. Powell, S. A. Brachfeld, S. Tulaczyk, R. P. Scherer, and *WISSARD Science
+Team*. "Physical processes in Subglacial Lake Whillans, West Antarctica: Inferences from
+sediment cores". Earth and Planetary Science Letters. 2016, 444, 56–63. {{{DOI(10.1016/j.epsl.2016.03.036.)}}}
+
+{{{LI}}} J. A. Mikucki, P. A. Lee, D. Ghosh, A. M. Purcell, A. C. Mitchell, *K. D. Mankoff*, A. T. Fisher, S. Tulaczyk, S. Carter, M. R. Siegfried, H. A. Fricker, T. Hodson, J. Coenen, R. Powell, R. Scherer, T. Vick-Majors, A. A. Achberger, B. C. Christner, and M. Tranter. "Subglacial Lake Whillans microbial biogeochemistry: a synthesis of current knowledge". Philosophical Transactions of the Royal Society A. 2015, 374 (2059), 20140290. {{{DOI(10.1098/rsta.2014.0290)}}} {{{PDF(Mikucki_2016_Subglacial_Lake_Whillans_microbial.pdf)}}}
+
+{{{LI}}} A. T. Fisher, *K. D. Mankoff*, S. M. Tulaczyk, S. W. Tyler, N. Foley, and the WISSARD Science Team. "High Geothermal Heat Flux Measured below the West Antarctic Ice Sheet". Science Advances. 2015, 1 (6), e1500093. {{{DOI(10.1126/sciadv.1500093)}}} {{{PDF(Fisher_2015_High_Geothermal_Heat_Flux.pdf)}}}
+
+{{{LI}}} A. A. Harpold, J. A. Marshall, S. W. Lyon, T. B. Barnhart, B. Fisher, M. Donovan, K. M. Brubaker, C. J. Crosby, N. F. Glenn, C. L. Glennie, P. B. Kirchner, N. Lam, *K. D. Mankoff*, J. L. McCreight, N. P. Molotch, K. N. Musselman, J. Pelletier, T. Russo, H. Sangireddy, Y. Sjoberg, T. Swetnam, and N. West. "Laser Vision: Lidar as a Transformative Tool to Advance Critical Zone Science". Hydrology and Earth System Sciences. 2015, 19, 2881–2897. {{{DOI(10.5194/hess-19-2881-2015)}}} {{{PDF(Harpold_2015_Laser_vision_lidar_as.pdf)}}}
+
+{{{LI}}}P. Kimball, J. Bailey, S. B. Das, R. Geyer, T. Harrison, C. Kunz, K. Manganini, *K. D. Mankoff*, K. Samuelson, T. Sayre-McCord, F. Straneo, P. Traykovski, and H. Singh. "The WHOI Jetyak: An Autonomous Surface Vehicle for Oceanographic Research in Shallow or Dangerous Waters". 2014 IEEE/OES Autonomous Underwater Vehicles (AUV). 1-7. 2014. {{{DOI(10.1109/AUV.2014.7054430)}}} {{{PDF(Kimball_2014_The_WHOI_Jetyak_An.pdf)}}}
+
+{{{LI}}}S. M. Tulaczyk, J. A. Mikucki, M. R. Siegfried, C. G. Barcheck, L. H. Beem, A. Behar, J. Burnett, B. C. Christner, A. T. Fisher, H. A. Fricker, *K. D. Mankoff*, F. Rack, J. C. Priscu, R. D. Powell, D. Sampson, R. P. Scherer, S. Y. Schwartz, and the WISSARD Science Team. WISSARD at subglacial Lake Whillans: Scientific operations and initial observations. Journal of Glaciology, 5(65), 2014. {{{DOI(10.3189/2014AoG65A009)}}} {{{PDF(Tulaczyk_2014_WISSARD_at_Subglacial_Lake.pdf)}}}
+
+{{{LI}}}B. C. Christner, J. C. Priscu, A. M. Achberger, C. Barbante, S. P. Carter, K. Christianson, A. B. Bichaud, J. A. Mikucki, A. C. Mitchell, M. L. Skidmore, T. J. Vick-Majors, and *The WISSARD Science Team*. "A microbial ecosystem beneath the West Antarctic ice sheet". Nature, 512:310 - 313. 2014. {{{DOI(10.1038/nature13667)}}} {{{PDF(Christner_2014_A_microbial_ecosystem_beneath.pdf)}}}
+
 {{{LI}}} *K. D. Mankoff* and T. A. Russo. The Kinect: A low-cost, high-resolution, short-range, 3D camera. Earth Surface Processes and Landforms, 38(9):926 - 936, 2013. {{{DOI(10.1002/esp.3332)}}} {{{PDF(Mankoff_2013_The_Kinect_A_low-cost_high-resolution.pdf)}}}
 
 {{{LI}}} *K. D. Mankoff*, S. S. Jacobs, S. M. Tulaczyk, and S. E. Stammerjohn. The role of Pine Island Glacier ice shelf basal channels in deep-water upwelling, polynyas and ocean circulation in Pine Island Bay, Antarctica. Annals of Glaciology, 53(60):23 - 28, 2012. {{{DOI(10.3189/2012AoG60A062)}}} {{{PDF(Mankoff_2012_The_role_of_Pine_Island.pdf)}}}
+
+{{{LI}}} S. Passchier, G. Browne, B. Field, C. R. Fielding, L. A. Krissek, K. Panter, S. F. Pekar, and *ANDRILL-SMS Science Team*. Early and middle Miocene Antarctic glacial history from the sedimentary facies distribution in the AND-2A drill hole, Ross Sea, Antarctica. Geological Society of America Bulletin. Apr. 2011, 123 (11-12), 2352–2365. {{{DOI(10.1130/b30334.1)}}}
+
+{{{LI}}} T. D. Frank, Z. Gui, and the *ANDRILL SMS Science Team*. Cryogenic origin for brine in the subsurface of southern McMurdo Sound, Antarctica. Geology. July 2010, 38 (7), 587–590. {{{DOI(10.1130/g30849.1)}}}
+
+{{{LI}}} S. Warny, R. A. Askin, M. J. Hannah, B. A. R. Mohr, J. I. Raine, D. M. Harwood, F. Florindo, and the *SMS Science Team*. Palynomorphs from a sediment core reveal a sudden remarkably warm Antarctica during the middle Miocene. Geology. Oct. 2009, 37 (10), 955–958. {{{DOI(10.1130/g30139a.1)}}}
+
+{{{LI}}} S. P. Shukla, M. A. Chandler, J. Jonas, L. E. Sohl, *K. D. Mankoff*, and H. J. Dowsett. Impact of a Permanent El Nino and Indian Ocean Dipole in Warm Pliocene Climates. Paleoceanography, 24(PA2221), 2009. {{{DOI(10.1029/2008PA001682)}}} {{{PDF(Shukla_2009_Impact_of_a_Permanent_El_Nino.pdf)}}}
+
+{{{LI}}} L. T. Huffman, R. H. Levy, L. Lacy, D. M. Harwood, M. Berg, M. Cattadori, J. Diamond, J. Dooley, L. Dahlman, R. Frisch-Gleason, J. Hubbard, R. Lehmann, *K. D. Mankoff*, V. Miller, K. Pound, G. S. di Clemente, A. Siegmund, J. Thomson, E. Trummel, R. Williams, and The ANDRILL SMS Project Science Team. Education and Outreach in the ANDRILL McMurdo Ice Shelf (MIS) and the Southern McMurdo Sound (SMS) Projects, Antarctica. Terra Antarctica, 15(1):221 - 235, 2008. {{{PDF(Huffman_2008_Education_and_Outreach_in_the_ANDRILL.pdf)}}}
+
+{{{LI}}} S. M. Petrinec, W. L. Imhof, C. A. Barth, *K. D. Mankoff*, D. N. Baker, and J. G. Luhmann. Com- parisons of thermospheric high-latitude nitric oxide observations from SNOE and global auroral X-ray bremsstrahlung observations from PIXIE. Journal of Geophysical Research, 108(A3):1223, 2003. {{{DOI(10.1029/2002JA009451>10.1029/2002JA009451)}}} {{{PDF(Petrinec_2003_Comparisons_of_thermospheric_high-latitude.pdf)}}}
+
+{{{LI}}} C. A. Barth, *K. D. Mankoff*, S. M. Bailey, and S. C. Solomon. Global observations of nitric oxide in the thermosphere. Journal of Geophysical Research, 108(A1):1027, 2003. {{{DOI(10.1029/2002JA009458)}}} {{{PDF(Barth_2003_Global_observations_of_nitric.pdf)}}}
+
+{{{LI}}} C. A. Barth, D. N. Baker, *K. D. Mankoff*, and S. M. Bailey. Magnetospheric control of the energy input into the thermosphere. Geophysical Research Letters, 29(13):1629, 2002. {{{DOI(10.1029/2001GL014362)}}} {{{PDF(Barth_2002_Magnetospheric_control_of_the_energy.pdf)}}}
+
+{{{LI}}} D. N. Baker, C. A. Barth, *K. D. Mankoff*, S. G. Kanekal, S. M. Bailey, G. M. Mason, and J. E. Mazur. Relationships between precipitating auroral zone electrons and lower thermospheric nitric oxide densities: 1998-2000. Journal of Geophysical Research, 106(A11):24465 - 24480, 2001. {{{DOI(10.1029/2001JA000078)}}} {{{PDF(Baker_2001_Relationships_between_precipitating.pdf)}}}
+
+{{{LI}}} C. A. Barth, D. N. Baker, *K. D. Mankoff*, and S. M. Bailey. The northern auroral region as observed in nitric oxide. Geophysical Research Letters, 38(8):1463 - 1466, 2001. {{{DOI(10.1029/2000GL012649)}}} {{{PDF(Barth_2001_The_northern_auroral_region.pdf)}}}
 
 @@html:</ol>@@
 
