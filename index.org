@@ -29,10 +29,9 @@
 :CUSTOM_ID: contact
 :END:
 
-| Home Page        | http://kenmankoff.com |
-| Email (work)     | [[mailto:Ken Mankoff <kdm@geus.dk>][kdm@geus.dk]]           |
-| Email (personal) | [[mailto:Ken Mankoff <mankoff@gmail.com>][mankoff@gmail.com]]     |
-| CV               | [[http://kenmankoff.com/mankoff_cv_A4.pdf][A4 PDF]] or [[http://kenmankoff.com/mankoff_cv.pdf][Letter PDF]]  |
+| Home Page | http://kenmankoff.com |
+| Email     | [[mailto:Ken Mankoff <info@kenmankoff.com>][info@kenmankoff.com]]|
+| CV        | [[http://kenmankoff.com/mankoff_cv_A4.pdf][A4 PDF]] or [[http://kenmankoff.com/mankoff_cv.pdf][Letter PDF]]  |
 
 # | Twitter          | [[https://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
 # | CV of failures   | http://kenmankoff.com/mankoff_cv.pdf         |
@@ -58,19 +57,17 @@ Department of Glaciology and Climate{{{NEWLINE}}}
 # #+end_center
 # #+end_sidebar
 
-I am a senior scientist at the [[http://geus.dk][Geological Survey of Denmark and Greenland (GEUS)]] in the [[http://www.geus.dk/natur-og-klima/][Department of Glaciology and Climate]]. 
+I am a research scientist studying ice sheets and polar oceans as indicators of climate change. I am formally trained as a computer scientist and earth scientist focusing on polar glacier hydrology and oceanography. I regularly work or have worked in the following areas:
 
-I am formally trained as a computer scientist and earth scientist focusing on polar glacier hydrology and oceanography. I regularly work or have worked in the following areas:
-
-+ *Reproducible computational workflows* and scientific publications using open source tools.
-
-+ *Remote sensing* including spacecraft operations and mission control, sensor calibration, and end-user imagery use.
++ *Leading logistically complicated field campaigns* with international stakeholders and participants ranging from multi-national corporations to Ph.D. students.
 
 + *Collecting data* from high-risk remote field sites such as underneath a glacier, within a crevasse field, or from the ocean at the edge of calving glaciers.
 
 + *Custom or novel sensor* life-cycle - Design, development, construction, deployment, operation, and field repair/debugging.
 
-+ *Leading logistically complicated field campaigns* with international stakeholders and participants ranging from multi-national corporations to Ph.D. students.
++ *Reproducible computational workflows* and scientific publications using open source tools.
+
++ *Remote sensing* including spacecraft operations and mission control, sensor calibration, and end-user imagery use.
 
 + *Public outreach* and education including popular press interviews, museum display creation, and speaking engagements on all seven continents from the U.N. General Assembly Room to kindergarten classrooms.
 
@@ -110,7 +107,7 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 #+ATTR_HTML: :width 500
 [[./fig/jetyak.png]]
 
-** Rappelling into a subglacial conduit cave
+** Rappelling into a glacier moulin
 :PROPERTIES:
 :CUSTOM_ID: pic:rappel
 :END:
