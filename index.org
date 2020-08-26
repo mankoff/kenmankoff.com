@@ -44,7 +44,7 @@ Geological Survey of Denmark and Greenland (GEUS){{{NEWLINE}}}
 Department of Glaciology and Climate{{{NEWLINE}}}
 Øster Voldgade 10{{{NEWLINE}}}
 1350 Copenhagen K., Denmark
-* About Me
+* About
 :PROPERTIES:
 :CUSTOM_ID: about
 :END:
