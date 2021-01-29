@@ -29,9 +29,11 @@
 :CUSTOM_ID: contact
 :END:
 
-| Home Page | http://kenmankoff.com |
-| Email     | [[mailto:Ken Mankoff <info@kenmankoff.com>][info@kenmankoff.com]]|
-| CV        | [[http://kenmankoff.com/mankoff_cv_A4.pdf][A4 PDF]] or [[http://kenmankoff.com/mankoff_cv.pdf][Letter PDF]]  |
+| Name      | Ken Mankoff            |
+| Pronouns  | Any                    |
+| Email     | [[mailto:Ken Mankoff <info@kenmankoff.com>][contact@kenmankoff.com]] |
+| Home Page | http://kenmankoff.com  |
+| CV        | [[http://kenmankoff.com/mankoff_cv_A4.pdf][A4 PDF]] or [[http://kenmankoff.com/mankoff_cv.pdf][Letter PDF]]   |
 
 # | Twitter          | [[https://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
 # | CV of failures   | http://kenmankoff.com/mankoff_cv.pdf         |
@@ -44,6 +46,7 @@ Geological Survey of Denmark and Greenland (GEUS){{{NEWLINE}}}
 Department of Glaciology and Climate{{{NEWLINE}}}
 Øster Voldgade 10{{{NEWLINE}}}
 1350 Copenhagen K., Denmark
+
 * About
 :PROPERTIES:
 :CUSTOM_ID: about
@@ -59,13 +62,13 @@ Department of Glaciology and Climate{{{NEWLINE}}}
 
 I am a research scientist studying ice sheets and polar oceans as indicators of climate change. I am formally trained as a computer scientist and earth scientist focusing on polar glacier hydrology and oceanography. I regularly work or have worked in the following areas:
 
-+ *Leading logistically complicated field campaigns* with international stakeholders and participants ranging from multi-national corporations to Ph.D. students.
-
 + *Collecting data* from high-risk remote field sites such as underneath a glacier, within a crevasse field, or from the ocean at the edge of calving glaciers.
 
-+ *Custom or novel sensor* life-cycle - Design, development, construction, deployment, operation, and field repair/debugging.
++ *Leading logistically complicated field campaigns* with international stakeholders and participants ranging from multi-national corporations to Ph.D. students.
 
 + *Reproducible computational workflows* and scientific publications using open source tools.
+
++ *Custom or novel sensor* life-cycle - Design, development, construction, deployment, operation, and field repair/debugging.
 
 + *Remote sensing* including spacecraft operations and mission control, sensor calibration, and end-user imagery use.
 
@@ -99,6 +102,12 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 (Photo by Austin Lines)
 #+ATTR_HTML: :width 500
 [[./fig/A380.png]]
+
+#+BEGIN_EXPORT html
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rcYGyp_9Ly0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+#+END_EXPORT
 
 ** Driving the WHOI JetYak
 :PROPERTIES:
@@ -142,7 +151,11 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 
 @@html:<ol reversed>@@
 
-{{{LI}}} *K. D. Mankoff*,  A. P. Ahlstrøm, W. Colgan, R. S. Fausto, X. Fettweis, K. Kondo, K. Langley, B. Noël, S. Sugiyama, and D. van As. "Greenland liquid water runoff from 1979 through 2017". Earth System Science Data Discussions. 2020. *In Review*. {{{DOI(10.5194/essd-2020-47)}}}
+{{{LI}}} W. Colgan, J. A. MacGregor, *K. D. Mankoff*, R. Haagenson, H. Rajaram, Y. M. Martos, M.
+Morlighem, M. A. Fahnestock, and K. K. Kjeldsen. "Topographic Correction of Geothermal
+Heat Flux in Greenland and Antarctica". Journal of Geophysical Research: Earth Surface. 2021, 126. {{{DOI(10.1029/2020jf005598)}}} {{{PDF(colgan_2021.pdf)}}}.
+
+{{{LI}}} *K. D. Mankoff*, B. Noël, X. Fettweis, A. P. Ahlstrøm, W. Colgan, K. Kondo, K. Langley, S. Sugiyama, D. van As, and R. S. Fausto. "Greenland liquid water discharge from 1958 through 2019". Earth System Science Data. 2020, 12 (4), 2811–2841. {{{DOI(10.5194/essd-12-2811-2020)}}} [[[https://essd.copernicus.org/articles/12/2811/2020/essd-12-2811-2020.pdf][PDF]]].
 
 {{{LI}}} *K. D. Mankoff*, A. Solgaard, W. Colgan, A. P. Ahlstrøm, S. A. Khan, and R. S. Fausto. "Greenland Ice Sheet solid ice discharge from 1986 through March 2020". Earth System Science Data. 2020, 12 (2), 1367-1383. {{{DOI(10.5194/essd-12-1367-2020)}}} {{{PDF(mankoff_2020_ice.pdf)}}}
 
@@ -164,8 +177,7 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 
 {{{LI}}} *K. D. Mankoff*, F. Straneo, C. Cenedese, S. B. Das, C. G. Richards, and H. Singh. "Structure and dynamics of a subglacial discharge plume in a Greelandic fjord". Journal of Geophysical Research: Oceans. 2016, 121(12), 8670-8688. {{{DOI(10.1002/2016JC011764)}}} {{{PDF(Mankoff_2016_Structure_and_dynamics_of.pdf)}}}
 
-{{{LI}}} T. O. Hodson, R. D. Powell, S. A. Brachfeld, S. Tulaczyk, R. P. Scherer, and *WISSARD Science
-Team*. "Physical processes in Subglacial Lake Whillans, West Antarctica: Inferences from
+{{{LI}}} T. O. Hodson, R. D. Powell, S. A. Brachfeld, S. Tulaczyk, R. P. Scherer, and *WISSARD Science Team*. "Physical processes in Subglacial Lake Whillans, West Antarctica: Inferences from
 sediment cores". Earth and Planetary Science Letters. 2016, 444, 56–63. {{{DOI(10.1016/j.epsl.2016.03.036.)}}}
 
 {{{LI}}} J. A. Mikucki, P. A. Lee, D. Ghosh, A. M. Purcell, A. C. Mitchell, *K. D. Mankoff*, A. T. Fisher, S. Tulaczyk, S. Carter, M. R. Siegfried, H. A. Fricker, T. Hodson, J. Coenen, R. Powell, R. Scherer, T. Vick-Majors, A. A. Achberger, B. C. Christner, and M. Tranter. "Subglacial Lake Whillans microbial biogeochemistry: a synthesis of current knowledge". Philosophical Transactions of the Royal Society A. 2015, 374 (2059), 20140290. {{{DOI(10.1098/rsta.2014.0290)}}} {{{PDF(Mikucki_2016_Subglacial_Lake_Whillans_microbial.pdf)}}}
