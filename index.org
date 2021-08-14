@@ -31,7 +31,7 @@
 
 | Name      | Ken Mankoff            |
 | Pronouns  | Any                    |
-| Email     | [[mailto:Ken Mankoff <info@kenmankoff.com>][contact@kenmankoff.com]] |
+| Email     | [[mailto:Ken Mankoff <contact@kenmankoff.com>][contact@kenmankoff.com]] |
 | Home Page | http://kenmankoff.com  |
 | CV        | [[http://kenmankoff.com/mankoff_cv_A4.pdf][A4 PDF]] or [[http://kenmankoff.com/mankoff_cv.pdf][Letter PDF]]   |
 
@@ -151,9 +151,16 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 
 @@html:<ol reversed>@@
 
-{{{LI}}} W. Colgan, J. A. MacGregor, *K. D. Mankoff*, R. Haagenson, H. Rajaram, Y. M. Martos, M.
-Morlighem, M. A. Fahnestock, and K. K. Kjeldsen. "Topographic Correction of Geothermal
-Heat Flux in Greenland and Antarctica". Journal of Geophysical Research: Earth Surface. 2021, 126. {{{DOI(10.1029/2020jf005598)}}} {{{PDF(colgan_2021.pdf)}}}.
+{{{LI}}} A. Solgaard, A. Kusk, J. P. M. Boncori, J. Dall, *K. D. Mankoff*, A. P. Ahlstrøm, S. B. Andersen, M. Citterio, N. B. Karlsson, K. K. Kjeldsen, N. J. Korsgaard, S. H. Larsen, and R. S. Fausto. "Greenland ice velocity maps from the PROMICE project". Earth System Science Data. 2021, 13 (7), 3491–3512. {{{DOI(10.5194/essd-13-3491-2021)}}} [[[https://essd.copernicus.org/articles/13/3491/2021/essd-13-3491-2021.pdf][PDF]]].
+
+{{{LI}}} R. S. Fausto, D. van As, *K. D. Mankoff*, B. Vandecrux, M. Citterio, A. P. Ahlstrøm, S. B. Andersen, W. Colgan, N. B. Karlsson, K. K. Kjeldsen, N. J. Korsgaard, S. H. Larsen, S. Nielsen, A. Ø. Pedersen, C. L. Shields, A. M. Solgaard, and J. E. Box. "Programme for Monitoring of the Greenland Ice Sheet (PROMICE) automatic weather station data". Earth System Science Data. 2021, 13 (8), 3819–3845. {{{DOI(10.5194/essd-13-3819-2021)}}} [[[https://essd.copernicus.org/articles/13/3819/2021/essd-13-3819-2021.pdf][PDF]]].
+
+{{{LI}}} K. Hansen, M. Truffer, A. Aschwanden, *K. Mankoff*, M. Bevis, A. Humbert, M. R. Broeke, B. Noël, A. Bjørk, W. Colgan, K. H. Kjær, S. Adhikari, V. Barletta, and S. A. Khan. "Estimating Ice Discharge at Greenland's Three Largest Outlet Glaciers Using Local Bedrock Uplift". Geophysical Research Letters. 2021, 48 (14). {{{DOI(10.1029/2021gl094252)}}} [[[https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021GL094252][PDF]]].
+
+{{{LI}}} N. B. Karlsson, A. M. Solgaard, *K. D. Mankoff*, F. Gillet-Chaulet, J. A. MacGregor, J. E. Box, M. Citterio, W. T. Colgan, S. H. Larsen, K. K. Kjeldsen, N. J. Korsgaard, D. I. Benn, I. J. Hewitt, and R. S. Fausto. "A first constraint on basal melt-water production of the Greenland ice sheet". Nature Communications. 2021, 12 (1). {{{DOI(10.1038/s41467-021-23739-z)}}} [[[https://www.nature.com/articles/s41467-021-23739-z.pdf][PDF]]].
+
+{{{LI}}} W. Colgan, J. A. MacGregor, *K. D. Mankoff*, R. Haagenson, H. Rajaram, Y. M. Martos, M. Morlighem, M. A. Fahnestock, and K. K. Kjeldsen. "Topographic Correction of Geothermal Heat Flux in Greenland and Antarctica". Journal of Geophysical Research: Earth Surface. 2021,
+126 (2). {{{DOI(10.1029/2020jf005598)}}} {{{PDF(colgan_2021.pdf)}}}.
 
 {{{LI}}} *K. D. Mankoff*, B. Noël, X. Fettweis, A. P. Ahlstrøm, W. Colgan, K. Kondo, K. Langley, S. Sugiyama, D. van As, and R. S. Fausto. "Greenland liquid water discharge from 1958 through 2019". Earth System Science Data. 2020, 12 (4), 2811–2841. {{{DOI(10.5194/essd-12-2811-2020)}}} [[[https://essd.copernicus.org/articles/12/2811/2020/essd-12-2811-2020.pdf][PDF]]].
 
