@@ -151,9 +151,11 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 
 @@html:<ol reversed>@@
 
-{{{LI}}} A. Solgaard, A. Kusk, J. P. M. Boncori, J. Dall, *K. D. Mankoff*, A. P. Ahlstrøm, S. B. Andersen, M. Citterio, N. B. Karlsson, K. K. Kjeldsen, N. J. Korsgaard, S. H. Larsen, and R. S. Fausto. "Greenland ice velocity maps from the PROMICE project". Earth System Science Data. 2021, 13 (7), 3491–3512. {{{DOI(10.5194/essd-13-3491-2021)}}} [[[https://essd.copernicus.org/articles/13/3491/2021/essd-13-3491-2021.pdf][PDF]]].
+{{{LI}}} *K. D. Mankoff*, X. Fettweis, P. L. Langen, M. Stendel, K. K. Kjeldsen, N. B. Karlsson, B. Noël, M. R. van den Broeke, A. Solgaard, W. Colgan, J. E. Box, S. B. Simonsen, M. D. King, A. P. Ahlstrøm, S. B. Andersen, and R. S. Fausto. "Greenland ice sheet mass balance from 1840 through next week". Earth System Science Data. 2021, 13 (10), 5001–5025. {{{DOI(10.5194/essd-13-5001-2021)}}} {{{PDF(mankoff_2021.pdf)}}}.
 
 {{{LI}}} R. S. Fausto, D. van As, *K. D. Mankoff*, B. Vandecrux, M. Citterio, A. P. Ahlstrøm, S. B. Andersen, W. Colgan, N. B. Karlsson, K. K. Kjeldsen, N. J. Korsgaard, S. H. Larsen, S. Nielsen, A. Ø. Pedersen, C. L. Shields, A. M. Solgaard, and J. E. Box. "Programme for Monitoring of the Greenland Ice Sheet (PROMICE) automatic weather station data". Earth System Science Data. 2021, 13 (8), 3819–3845. {{{DOI(10.5194/essd-13-3819-2021)}}} [[[https://essd.copernicus.org/articles/13/3819/2021/essd-13-3819-2021.pdf][PDF]]].
+
+{{{LI}}} A. Solgaard, A. Kusk, J. P. M. Boncori, J. Dall, *K. D. Mankoff*, A. P. Ahlstrøm, S. B. Andersen, M. Citterio, N. B. Karlsson, K. K. Kjeldsen, N. J. Korsgaard, S. H. Larsen, and R. S. Fausto. "Greenland ice velocity maps from the PROMICE project". Earth System Science Data. 2021, 13 (7), 3491–3512. {{{DOI(10.5194/essd-13-3491-2021)}}} [[[https://essd.copernicus.org/articles/13/3491/2021/essd-13-3491-2021.pdf][PDF]]].
 
 {{{LI}}} K. Hansen, M. Truffer, A. Aschwanden, *K. Mankoff*, M. Bevis, A. Humbert, M. R. Broeke, B. Noël, A. Bjørk, W. Colgan, K. H. Kjær, S. Adhikari, V. Barletta, and S. A. Khan. "Estimating Ice Discharge at Greenland's Three Largest Outlet Glaciers Using Local Bedrock Uplift". Geophysical Research Letters. 2021, 48 (14). {{{DOI(10.1029/2021gl094252)}}} [[[https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021GL094252][PDF]]].
 
