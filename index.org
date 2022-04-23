@@ -29,11 +29,10 @@
 :CUSTOM_ID: contact
 :END:
 
-| Name      | Ken Mankoff            |
-| Pronouns  | Any                    |
-| Email     | [[mailto:Ken Mankoff <contact@kenmankoff.com>][contact@kenmankoff.com]] |
-| Home Page | http://kenmankoff.com  |
-| CV        | [[http://kenmankoff.com/mankoff_cv_A4.pdf][A4 PDF]] or [[http://kenmankoff.com/mankoff_cv.pdf][Letter PDF]]   |
+| Name      | Ken Mankoff                          |
+| Email     | [[mailto:Ken Mankoff <contact@kenmankoff.com>][contact@kenmankoff.com]]               |
+| Home Page | http://kenmankoff.com                |
+| CV        | http://kenmankoff.com/mankoff_cv.pdf |
 
 # | Twitter          | [[https://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
 # | CV of failures   | http://kenmankoff.com/mankoff_cv.pdf         |
