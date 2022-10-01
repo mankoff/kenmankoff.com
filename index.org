@@ -29,10 +29,11 @@
 :CUSTOM_ID: contact
 :END:
 
-| Name      | Ken Mankoff                          |
-| Email     | [[mailto:Ken Mankoff <contact@kenmankoff.com>][contact@kenmankoff.com]]               |
-| Home Page | http://kenmankoff.com                |
-| CV        | http://kenmankoff.com/mankoff_cv.pdf |
+| Name            | Ken Mankoff                                                                                                                                                     |
+| Email           | [[mailto:Ken Mankoff <contact@kenmankoff.com>][contact@kenmankoff.com]]                                                                                                                                          |
+| Home Page       | http://kenmankoff.com                                                                                                                                           |
+| CV              | http://kenmankoff.com/mankoff_cv.pdf                                                                                                                            |
+| Current role(s) | Senior Associate Scientist, Cooperative Institute for Research in Environmental Sciences (CIRES); Software Developer, National Snow and Ice Data Center (NSIDC) |
 
 # | Twitter          | [[https://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
 # | CV of failures   | http://kenmankoff.com/mankoff_cv.pdf         |
@@ -61,15 +62,15 @@ Department of Glaciology and Climate{{{NEWLINE}}}
 
 I am a research scientist studying ice sheets and polar oceans as indicators of climate change. I am formally trained as a computer scientist and earth scientist focusing on polar glacier hydrology and oceanography. I regularly work or have worked in the following areas:
 
++ *Reproducible computational workflows* and scientific publications using open source tools.
+
++ *Remote sensing* including spacecraft operations and mission control, sensor calibration, and end-user imagery use.
+
 + *Collecting data* from remote field sites such as underneath a glacier, within a crevasse field, or from the ocean at the edge of calving glaciers.
 
 + *Leading logistically complicated field campaigns* with international stakeholders and participants ranging from multi-national corporations to Ph.D. students.
 
-+ *Reproducible computational workflows* and scientific publications using open source tools.
-
 + *Custom or novel sensor* life-cycle - Design, development, construction, deployment, operation, and field repair/debugging.
-
-+ *Remote sensing* including spacecraft operations and mission control, sensor calibration, and end-user imagery use.
 
 + *Public outreach* and education including popular press interviews, museum display creation, and speaking engagements on all seven continents from the U.N. General Assembly Room to kindergarten classrooms.
 
@@ -151,6 +152,23 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 @@html:<ol reversed>@@
 
 # {{{LI}}} Young, TJ...
+{{{LI}}} J. E. Box, A. Hubbard, D. B. Bahr, W. T. Colgan, X. Fettweis, *K. D. Mankoff*, A. Wehrlé, B. Noël, M. R. van den Broeke, B. Wouters, A. A. Bjørk, and R. S. Fausto. _*"Greenland ice sheet climate disequilibrium and committed sea-level rise"*_. Nature Climate Change. 2022, 12 (9), 808–813. {{{DOI(10.1038/s41558-022-01441-2)}}}.
+
+{{{LI}}} M. Oksman, A. B. Kvorning, S. H. Larsen, K. K. Kjeldsen, *Mankoff, K. D.*, W. Colgan, T. J.
+Andersen, N. Nørgaard-Pedersen, M.-S. Seidenkrantz, N. Mikkelsen, and S. Ribeiro.
+_*"Impact of freshwater runoff from the southwest Greenland Ice Sheet on fjord productivity since the late 19th century"*_. The Cryosphere. 2022, 16 (6), 2471–2491. {{{DOI(10.5194/tc-16-2471-2022)}}}.
+
+{{{LI}}} W. Colgan, A. Wansing, *K. D. Mankoff*, M. Lösing, J. Hopper, K. Louden, J. Ebbing, F. G.
+Christiansen, T. Ingeman-Nielsen, L. C. Liljedahl, J. A. MacGregor, Á. Hjartarson, S. Bernstein,
+N. B. Karlsson, S. Fuchs, J. Hartikainen, J. Liakka, R. S. Fausto, D. Dahl-Jensen, A. Bjørk, J.-O.
+Naslund, F. Mørk, Y. Martos, N. Balling, T. Funck, K. K. Kjeldsen, D. Petersen, U. Gregersen,
+G. Dam, T. Nielsen, S. A. Khan, and A. Løkkegaard. _*"Greenland Geothermal Heat Flow
+Database and Map (Version 1)"*_. Earth System Science Data. 2022, 14 (5), 2209–2238. {{{DOI(10.5194/essd-14-2209-2022)}}}.
+
+{{{LI}}} T. J. Young, P. Christoffersen, M. Bougamont, S. M. Tulaczyk, B. Hubbard, *K. D. Mankoff*,
+K. W. Nicholls, and C. L. Stewart. _*"Rapid basal melting of the Greenland Ice Sheet from
+surface meltwater drainage"*_. Proceedings of the National Academy of Sciences. 2022, 119 (10),
+e2116036119. {{{DOI(10.1073/pnas.2116036119)}}}.
 
 {{{LI}}} *K. D. Mankoff*, X. Fettweis, P. L. Langen, M. Stendel, K. K. Kjeldsen, N. B. Karlsson, B. Noël, M. R. van den Broeke, A. Solgaard, W. Colgan, J. E. Box, S. B. Simonsen, M. D. King, A. P. Ahlstrøm, S. B. Andersen, and R. S. Fausto. _*"Greenland ice sheet mass balance from 1840 through next week"*_. Earth System Science Data. 2021, 13 (10), 5001–5025. {{{DOI(10.5194/essd-13-5001-2021)}}} {{{PDF(mankoff_2021.pdf)}}}.
 
@@ -177,7 +195,11 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 
 {{{LI}}} *K. D. Mankoff*, W. Colgan, A. Solgaard, N. B. Karlsson, A. P. Ahlstrøm, D. van As, J. E. Box, S. A. Khan, K. K. Kjeldsen, J. Mouginot, and R. S. Fausto. _*"Greenland Ice Sheet solid ice discharge from 1986 through 2017"*_. Earth System Science Data. 2019, 11 (2), 769-786. {{{DOI(10.5194/essd-11-769-2019)}}} [[[https://www.earth-syst-sci-data.net/11/769/2019/essd-11-769-2019.pdf][PDF]]]
 
+{{{LI}}} J. K. Andersen, R. S. Fausto, K. Hansen, J. E. Box, S. B. Andersen, A. P. Ahlstrøm, D. V. As, M. Citterio, W. Colgan, N. B. Karlsson, K. K. Kjeldsen, N. J. Korsgaard, S. H. Larsen, *K. D. Mankoff*, A. Ø. Pedersen, C. L. Shields, A. Solgaard, and B. Vandecrux. _*"Update of annual calving front lines for 47 marine terminating outlet glaciers in Greenland (1999–2018)"*_. Geological Survey of Denmark and Greenland Bulletin. 2019, 43. {{{DOI(10.34194/geusb-201943-02-02)}}}.
+
 {{{LI}}} W. Colgan, *K. D. Mankoff*, K. K. Kjeldsen, A. A. Bjørk, J. E. Box, S. B. Simonsen, L. S. Sørensen, S. A. Khan, A. M. Solgaard, R. Forsberg, H. Skourup, L. Stenseng, S. S. Kristensen, S. Hvidegaard, M. Citterio, N. Karlsson, X. Fettweis, A. P. Ahlstrøm, S. B. Andersen, D. van As, and R. S. Fausto. _*"Greenland ice sheet mass balance assessed by PROMICE (1995 -- 2015)"*_. Geological Survey of Denmark and Greenland Bulletin. 2019, 43, e2019430201. {{{DOI(10.34194/GEUSB-201943-02-01)}}} [[[https://eng.geus.dk/media/21862/geusb-201943-02-01.pdf][PDF]]]
+
+{{{LI}}} R. S. Fausto and *the PROMICE team*. _*"The Greenland ice sheet – snowline elevations at the end of the melt seasons from 2000 to 2017"*_. Geological Survey of Denmark and Greenland Bulletin. 2018, 41, 71–74. {{{DOI(10.34194/geusb.v41.4346)}}}.
 
 {{{LI}}} Y. Chen, X. Liu, J. D. Gulley, and *K. D. Mankoff*. _*"Subglacial Conduit Roughness: Insights From Computational Fluid Dynamics Models"*_. Geophysical Research Letters. 2018, 45, (20), 11206-11218. {{{DOI(10.1029/2018gl079590)}}}
 
@@ -196,11 +218,11 @@ sediment cores"*_. Earth and Planetary Science Letters. 2016, 444, 56–63. {{{D
 
 {{{LI}}} A. A. Harpold, J. A. Marshall, S. W. Lyon, T. B. Barnhart, B. Fisher, M. Donovan, K. M. Brubaker, C. J. Crosby, N. F. Glenn, C. L. Glennie, P. B. Kirchner, N. Lam, *K. D. Mankoff*, J. L. McCreight, N. P. Molotch, K. N. Musselman, J. Pelletier, T. Russo, H. Sangireddy, Y. Sjoberg, T. Swetnam, and N. West. _*"Laser Vision: Lidar as a Transformative Tool to Advance Critical Zone Science"*_. Hydrology and Earth System Sciences. 2015, 19, 2881–2897. {{{DOI(10.5194/hess-19-2881-2015)}}} {{{PDF(Harpold_2015_Laser_vision_lidar_as.pdf)}}}
 
-{{{LI}}}P. Kimball, J. Bailey, S. B. Das, R. Geyer, T. Harrison, C. Kunz, K. Manganini, *K. D. Mankoff*, K. Samuelson, T. Sayre-McCord, F. Straneo, P. Traykovski, and H. Singh. _*"The WHOI Jetyak: An Autonomous Surface Vehicle for Oceanographic Research in Shallow or Dangerous Waters"*_. 2014 IEEE/OES Autonomous Underwater Vehicles (AUV). 1-7. 2014. {{{DOI(10.1109/AUV.2014.7054430)}}} {{{PDF(Kimball_2014_The_WHOI_Jetyak_An.pdf)}}}
+{{{LI}}} P. Kimball, J. Bailey, S. B. Das, R. Geyer, T. Harrison, C. Kunz, K. Manganini, *K. D. Mankoff*, K. Samuelson, T. Sayre-McCord, F. Straneo, P. Traykovski, and H. Singh. _*"The WHOI Jetyak: An Autonomous Surface Vehicle for Oceanographic Research in Shallow or Dangerous Waters"*_. 2014 IEEE/OES Autonomous Underwater Vehicles (AUV). 1-7. 2014. {{{DOI(10.1109/AUV.2014.7054430)}}} {{{PDF(Kimball_2014_The_WHOI_Jetyak_An.pdf)}}}
 
-{{{LI}}}S. M. Tulaczyk, J. A. Mikucki, M. R. Siegfried, C. G. Barcheck, L. H. Beem, A. Behar, J. Burnett, B. C. Christner, A. T. Fisher, H. A. Fricker, *K. D. Mankoff*, F. Rack, J. C. Priscu, R. D. Powell, D. Sampson, R. P. Scherer, S. Y. Schwartz, and the WISSARD Science Team. _*"WISSARD at subglacial Lake Whillans: Scientific operations and initial observations"*_. Journal of Glaciology, 5(65), 2014. {{{DOI(10.3189/2014AoG65A009)}}} {{{PDF(Tulaczyk_2014_WISSARD_at_Subglacial_Lake.pdf)}}}
+{{{LI}}} S. M. Tulaczyk, J. A. Mikucki, M. R. Siegfried, C. G. Barcheck, L. H. Beem, A. Behar, J. Burnett, B. C. Christner, A. T. Fisher, H. A. Fricker, *K. D. Mankoff*, F. Rack, J. C. Priscu, R. D. Powell, D. Sampson, R. P. Scherer, S. Y. Schwartz, and the WISSARD Science Team. _*"WISSARD at subglacial Lake Whillans: Scientific operations and initial observations"*_. Journal of Glaciology, 5(65), 2014. {{{DOI(10.3189/2014AoG65A009)}}} {{{PDF(Tulaczyk_2014_WISSARD_at_Subglacial_Lake.pdf)}}}
 
-{{{LI}}}B. C. Christner, J. C. Priscu, A. M. Achberger, C. Barbante, S. P. Carter, K. Christianson, A. B. Bichaud, J. A. Mikucki, A. C. Mitchell, M. L. Skidmore, T. J. Vick-Majors, and *The WISSARD Science Team*. _*"A microbial ecosystem beneath the West Antarctic ice sheet"*_. Nature, 512:310 - 313. 2014. {{{DOI(10.1038/nature13667)}}} {{{PDF(Christner_2014_A_microbial_ecosystem_beneath.pdf)}}}
+{{{LI}}} B. C. Christner, J. C. Priscu, A. M. Achberger, C. Barbante, S. P. Carter, K. Christianson, A. B. Bichaud, J. A. Mikucki, A. C. Mitchell, M. L. Skidmore, T. J. Vick-Majors, and *The WISSARD Science Team*. _*"A microbial ecosystem beneath the West Antarctic ice sheet"*_. Nature, 512:310 - 313. 2014. {{{DOI(10.1038/nature13667)}}} {{{PDF(Christner_2014_A_microbial_ecosystem_beneath.pdf)}}}
 
 {{{LI}}} *K. D. Mankoff* and T. A. Russo. _*"The Kinect: A low-cost, high-resolution, short-range, 3D camera"*_. Earth Surface Processes and Landforms, 38(9):926 - 936, 2013. {{{DOI(10.1002/esp.3332)}}} {{{PDF(Mankoff_2013_The_Kinect_A_low-cost_high-resolution.pdf)}}}
 
@@ -215,6 +237,8 @@ sediment cores"*_. Earth and Planetary Science Letters. 2016, 444, 56–63. {{{D
 {{{LI}}} S. P. Shukla, M. A. Chandler, J. Jonas, L. E. Sohl, *K. D. Mankoff*, and H. J. Dowsett. _*"Impact of a Permanent El Nino and Indian Ocean Dipole in Warm Pliocene Climates"*_. Paleoceanography, 24(PA2221), 2009. {{{DOI(10.1029/2008PA001682)}}} {{{PDF(Shukla_2009_Impact_of_a_Permanent_El_Nino.pdf)}}}
 
 {{{LI}}} L. T. Huffman, R. H. Levy, L. Lacy, D. M. Harwood, M. Berg, M. Cattadori, J. Diamond, J. Dooley, L. Dahlman, R. Frisch-Gleason, J. Hubbard, R. Lehmann, *K. D. Mankoff*, V. Miller, K. Pound, G. S. di Clemente, A. Siegmund, J. Thomson, E. Trummel, R. Williams, and The ANDRILL SMS Project Science Team. _*"Education and Outreach in the ANDRILL McMurdo Ice Shelf (MIS) and the Southern McMurdo Sound (SMS) Projects, Antarctica"*_. Terra Antarctica, 15(1):221 - 235, 2008. {{{PDF(Huffman_2008_Education_and_Outreach_in_the_ANDRILL.pdf)}}}
+
+{{{LI}}} D. Mankoff, A. Dey, J. Mankoff, and *K. D. Mankoff*. _*"Supporting interspecies social awareness: using peripheral displays for distributed pack awareness"*_. Proceedings of the 18th annual ACM symposium on User interface software and technology. ACM New York, NY, USA. 2005, pp. 253–258.
 
 {{{LI}}} S. M. Petrinec, W. L. Imhof, C. A. Barth, *K. D. Mankoff*, D. N. Baker, and J. G. Luhmann. _*"Comparisons of thermospheric high-latitude nitric oxide observations from SNOE and global auroral X-ray bremsstrahlung observations from PIXIE"*_. Journal of Geophysical Research, 108(A3):1223, 2003. {{{DOI(10.1029/2002JA009451>10.1029/2002JA009451)}}} {{{PDF(Petrinec_2003_Comparisons_of_thermospheric_high-latitude.pdf)}}}
 
@@ -353,7 +377,14 @@ While sub-ice shelf outflow plumes had long been assumed and occasionally observ
 * Publish                                               :noexport:
 #+BEGIN_SRC sh :results verbatim
 # export with C-e h h
-ncftpput -u 2579385 f18-preview.awardspace.net kenmankoff.com index.html
-ncftpput -u 2579385 f18-preview.awardspace.net kenmankoff.com ~/Documents/CV/mankoff_cv*.pdf
+
+# free?
+# ncftpput -u 2579385 f18-preview.awardspace.net kenmankoff.com index.html
+# ncftpput -u 2579385 f18-preview.awardspace.net kenmankoff.com ~/Documents/CV/mankoff_cv*.pdf
+
+# pay
+ncftpput -u 2579385 p56-preview.awardspace.net kenmankoff.com index.html
+ncftpput -u 2579385 p56-preview.awardspace.net kenmankoff.com ~/Documents/CV/mankoff_cv.pdf
+# AwardSpace
 #+END_SRC
 #+RESULTS:
