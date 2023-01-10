@@ -29,15 +29,15 @@
 :CUSTOM_ID: contact
 :END:
 
-| Name            | Ken Mankoff                                                                                                                                                     |
-| Email           | [[mailto:Ken Mankoff <contact@kenmankoff.com>][contact@kenmankoff.com]]                                                                                                                                          |
-| Home Page       | http://kenmankoff.com                                                                                                                                           |
-| CV              | http://kenmankoff.com/mankoff_cv.pdf                                                                                                                            |
-| Current role(s) | Senior Associate Scientist, Cooperative Institute for Research in Environmental Sciences (CIRES); Software Developer, National Snow and Ice Data Center (NSIDC) |
+| Name            | Ken Mankoff                                                                   |
+| Email           | [[mailto:Ken Mankoff <km@kenmankoff.com>][km@kenmankoff.com]]                                                             |
+| Home Page       | http://kenmankoff.com                                                         |
+| CV              | http://kenmankoff.com/mankoff_cv.pdf                                          |
+| Current role(s) | Senior Scientific Programmer, NASA Goddard Institute for Space Studies (GISS) |
+| GitHub          | http://github.com/mankoff                                                     |
 
 # | Twitter          | [[https://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
 # | CV of failures   | http://kenmankoff.com/mankoff_cv.pdf         |
-# | GitHub    | http://github.com/mankoff                    |
 
 ** Work Address                                         :noexport:
 
@@ -151,7 +151,10 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 
 @@html:<ol reversed>@@
 
-# {{{LI}}} Young, TJ...
+{{{LI}}} B. Hasholt, T. F. Nielsen, *K. D. Mankoff*, V. Gkinis, and I. Overeem. _*"Sediment concentrations and transport in icebergs, Scoresby Sound, East Greenland"*_. Hydrological Processes. 2022, 36 (10). {{{DOI(10.1002/hyp.14668)}}}.
+
+{{{LI}}} M. K. Sejr, A. Bruhn, T. Dalsgaard, T. Juul-Pedersen, C. A. Stedmon, M. Blicher, L. Meire, *K. D. Mankoff*, and J. Thyrring. _*"Glacial meltwater determines the balance between autotrophic and heterotrophic processes in a Greenland fjord"*_. Proceedings of the National Academy of Sciences. 2022, 119 (52). {{{DOI(10.1073/pnas.2207024119)}}}.
+
 {{{LI}}} J. E. Box, A. Hubbard, D. B. Bahr, W. T. Colgan, X. Fettweis, *K. D. Mankoff*, A. Wehrlé, B. Noël, M. R. van den Broeke, B. Wouters, A. A. Bjørk, and R. S. Fausto. _*"Greenland ice sheet climate disequilibrium and committed sea-level rise"*_. Nature Climate Change. 2022, 12 (9), 808–813. {{{DOI(10.1038/s41558-022-01441-2)}}}.
 
 {{{LI}}} M. Oksman, A. B. Kvorning, S. H. Larsen, K. K. Kjeldsen, *Mankoff, K. D.*, W. Colgan, T. J.
