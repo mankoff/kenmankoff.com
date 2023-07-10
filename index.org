@@ -145,6 +145,12 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 
 @@html:<ol reversed>@@
 
+{{{LI}}} P. R. How, P. J. Wright, *K. D. Mankoff*, B. Vandecrux, R. S. Fausto, and A. P. Ahlstrøm. _*"pypromice: A Python package for processing automated weather station data"*_. Journal of Open Source Software. 2023, 8 (86), 5298. {{{DOI(10.21105/joss.05298)}}}.
+
+{{{LI}}} M. Siegfried, R. Venturelli, M. Patterson, W. Arnuk, T. Campbell, C. Gustafson, A. Michaud, B. Galton-Fenzi, M. Hausner, S. Holzschuh, B. Huber, *K. D. Mankoff*, D. Schroeder, P. Summers, S. Tyler, S. Carter, H. Fricker, D. Harwood, A. Leventer, B. Rosenheim, M. Skidmore, and J. P. and. _*"The life and death of a subglacial lake in West Antarctica"*_. Geology. 2023, 51 (5), 434–438. {{{DOI(10.1130/g50995.1)}}}.
+
+{{{LI}}} E. F. Møller, A. Christensen, J. Larsen, *K. D. Mankoff*, M. H. Ribergaard, M. Sejr, P. Wallhead, and M. Maar. _*"The sensitivity of primary productivity in Disko Bay, a coastal Arctic ecosystem, to changes in freshwater discharge and sea ice cover"*_. Ocean Science. 2023, 19 (2), 403–420. {{{DOI(10.5194/os-19-403-2023)}}}.
+
 {{{LI}}} B. Hasholt, T. F. Nielsen, *K. D. Mankoff*, V. Gkinis, and I. Overeem. _*"Sediment concentrations and transport in icebergs, Scoresby Sound, East Greenland"*_. Hydrological Processes. 2022, 36 (10). {{{DOI(10.1002/hyp.14668)}}}.
 
 {{{LI}}} M. K. Sejr, A. Bruhn, T. Dalsgaard, T. Juul-Pedersen, C. A. Stedmon, M. Blicher, L. Meire, *K. D. Mankoff*, and J. Thyrring. _*"Glacial meltwater determines the balance between autotrophic and heterotrophic processes in a Greenland fjord"*_. Proceedings of the National Academy of Sciences. 2022, 119 (52). {{{DOI(10.1073/pnas.2207024119)}}}.
