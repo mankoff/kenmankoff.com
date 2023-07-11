@@ -29,12 +29,14 @@
 :CUSTOM_ID: contact
 :END:
 
-| Name            | Ken Mankoff                                                                   |
-| Email           | [[mailto:Ken Mankoff <km@kenmankoff.com>][km@kenmankoff.com]]                                                             |
-| Home Page       | http://kenmankoff.com                                                         |
-| CV              | http://kenmankoff.com/mankoff_cv.pdf                                          |
-| Current role(s) | Senior Scientific Programmer, NASA Goddard Institute for Space Studies (GISS) |
-| GitHub          | http://github.com/mankoff                                                     |
+| Name          | Ken Mankoff                                                                   |
+| Email         | [[mailto:Ken Mankoff <km@kenmankoff.com>][km@kenmankoff.com]]                                                             |
+| Home Page     | http://kenmankoff.com                                                         |
+| CV            | http://kenmankoff.com/mankoff_cv.pdf                                          |
+| Current roles | Senior Scientific Programmer, NASA Goddard Institute for Space Studies (GISS) |
+|               | Associate Scientist, Earth and Space Research (ESR)                           |
+|               | Adjunct Senior Scientist, Geological Survey of Denmark and Greenland (GEUS)   |
+| GitHub        | http://github.com/mankoff                                                     |
 
 # | Twitter          | [[https://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
 # | CV of failures   | http://kenmankoff.com/mankoff_cv.pdf         |
