@@ -11,6 +11,8 @@
 
 #+SETUPFILE: ./org-html-themes/setup/theme-readtheorg.setup
 
+#+HTML_HEAD_EXTRA: <style>*{font-family: sans-serif !important}</style>
+
 #+PROPERTY:  header-args :eval yes :exports both :results replace
 
 # #+MACRO: longtext this is a very very long text to include
