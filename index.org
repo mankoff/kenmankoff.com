@@ -33,9 +33,8 @@
 | Email         | [[mailto:Ken Mankoff <km@kenmankoff.com>][km@kenmankoff.com]]                                                             |
 | Home Page     | http://kenmankoff.com                                                         |
 | CV            | http://kenmankoff.com/mankoff_cv.pdf                                          |
-| Current roles | Senior Scientific Programmer, NASA Goddard Institute for Space Studies (GISS) |
-|               | Associate Scientist, Earth and Space Research (ESR)                           |
-|               | Adjunct Senior Scientist, Geological Survey of Denmark and Greenland (GEUS)   |
+| Current roles | Senior Scientific Programmer, NASA [[https://www.giss.nasa.gov/][Goddard Institute for Space Studies (GISS)]] |
+|               | Adjunct Senior Scientist, [[https://eng.geus.dk/about/organisation/departments/glaciology-and-climate][Geological Survey of Denmark and Greenland (GEUS)]]                     |
 | GitHub        | http://github.com/mankoff                                                     |
 
 # | Twitter          | [[https://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
