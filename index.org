@@ -77,6 +77,17 @@ For more information, please read the relevant [[#publications][publications]] o
 # My research spans the path of a drop of water from when it melts on the surface (or at the base) of the ice sheet, flows through and under the ice sheet, and is exhausted into a Greenland fjord or under an Antarctic ice shelf. The water is then one half of the ice/ocean boundary, and this freshwater flux is increasing in the warming climate. Further downstream, the meltwater modifies fjord properties and coastal seas, changing oceanic and ice conditions. For more information, please read the relevant [[#publications][publications]] or my [[http://kenmankoff.com/mankoff_cv.pdf][CV]].
 
 
+* Active projects
+
++ Coupling [[https://www.pism.io/][PISM]] to the NASA [[https://www.giss.nasa.gov/][GISS]] [[https://www.giss.nasa.gov/tools/modelE/][ModelE GCM]]
++ Chief Editor (Ice) of [[https://www.earth-system-science-data.net/][Earth System Science Data (ESSD)]]
++ Contributing to GEUS [[https://promice.org/][PROMICE]] Greenland data products
+  + [[https://promice.org/weather-stations/][Weather station maintenance]]
+  + [[https://github.com/GEUS-Glaciology-and-Climate/mass_balance][Total mass balance]]
+  + [[https://github.com/GEUS-Glaciology-and-Climate/freshwater/][Freshwater runoff]]
+  + [[https://github.com/GEUS-Glaciology-and-Climate/ice_discharge/][Ice discharge]]
++ Chair, Ice Basins and Boundaries IACS working group
+
 * Photos
 :PROPERTIES:
 :CUSTOM_ID: photos
