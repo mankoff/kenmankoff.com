@@ -161,6 +161,8 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 
 @@html:<ol reversed>@@
 
+{{{LI}}} N. B. Karlsson, *K. D. Mankoff*, A. M. Solgaard, S. H. Larsen, P. R. How, R. S. Fausto, and L. S. Sørensen. _*"A data set of monthly freshwater fluxes from the Greenland ice sheet’s marine-terminating glaciers on a glacier–basin scale 2010–2020"*_. GEUS Bulletin. 2023, 53. {{{DOI(10.34194/geusb.v53.8338)}}}.
+
 {{{LI}}} P. R. How, P. J. Wright, *K. D. Mankoff*, B. Vandecrux, R. S. Fausto, and A. P. Ahlstrøm. _*"pypromice: A Python package for processing automated weather station data"*_. Journal of Open Source Software. 2023, 8 (86), 5298. {{{DOI(10.21105/joss.05298)}}}.
 
 {{{LI}}} M. Siegfried, R. Venturelli, M. Patterson, W. Arnuk, T. Campbell, C. Gustafson, A. Michaud, B. Galton-Fenzi, M. Hausner, S. Holzschuh, B. Huber, *K. D. Mankoff*, D. Schroeder, P. Summers, S. Tyler, S. Carter, H. Fricker, D. Harwood, A. Leventer, B. Rosenheim, M. Skidmore, and J. P. and. _*"The life and death of a subglacial lake in West Antarctica"*_. Geology. 2023, 51 (5), 434–438. {{{DOI(10.1130/g50995.1)}}}.
