@@ -23,8 +23,14 @@
 #+MACRO: LI @@html:<li>@@
 
 # #+MACRO: PDF @@html:[<a href="http://kenmankoff.com/pubs/$1"><img src="./img/pdf.gif" width="12px"></a>]@@
-
 # #+TOC: headlines 2
+
+#+CALL: copy_cv[:exports none]()
+
+#+RESULTS:
+: Sat Sep  9 08:20:29 AM PDT 2023
+: '/home/kdm/Documents/CV/mankoff_cv.pdf' -> './mankoff_cv.pdf'
+
 
 * Contact
 :PROPERTIES:
@@ -39,9 +45,6 @@
 | CV            | http://kenmankoff.com/mankoff_cv.pdf                                          |
 | Home Page     | http://kenmankoff.com                                                         |
 | GitHub        | http://github.com/mankoff                                                     |
-
-# | Twitter          | [[https://twitter.com/mankoff][@mankoff]] or [[https://twitter.com/GreenlandFjord][@GreenlandFjord]] or [[https://twitter.com/AntarcticPIG][@AntarcticPIG]] |
-# | CV of failures   | http://kenmankoff.com/mankoff_cv.pdf         |
 
 * About
 :PROPERTIES:
@@ -66,9 +69,9 @@ I am a research scientist studying ice sheets and polar oceans as indicators of 
 
 + *Reproducible computational workflows* and scientific publications using open source tools.
 
-+ *Climate modeling* including coupling ice sheet models to global climate models.
++ *Climate modeling* including coupling ice sheet and global climate models.
 
-+ *Remote sensing* including spacecraft operations and mission control, sensor calibration, and end-user imagery use.
++ *Remote sensing* spacecraft operations and mission control, sensor calibration, and end-user imagery use.
 
 + *Public outreach* and education including popular press interviews, museum display creation, and speaking engagements on all seven continents from the U.N. General Assembly Room to kindergarten classrooms.
 
@@ -97,13 +100,6 @@ For more information, please read the relevant [[#publications][publications]] o
 :END:
 
 Here are some photos from some of my fieldwork. Many of these have papers (listed below) describing the project in more detail.
-
-** Antarctic Selfie
-:PROPERTIES:
-:CUSTOM_ID: pic:selfie
-:END:
-#+ATTR_HTML: :width 500
-[[./fig/mankoff.jpg]]
 
 ** Recovering an airplane engine from a crevasse field
 :PROPERTIES:
@@ -150,6 +146,13 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 [[./fig/pancake.JPG]]
 
 
+** Antarctic Selfie
+:PROPERTIES:
+:CUSTOM_ID: pic:selfie
+:END:
+#+ATTR_HTML: :width 500
+[[./fig/mankoff.jpg]]
+
 * Publications
 :PROPERTIES:
 :CUSTOM_ID: publications
@@ -160,6 +163,8 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 #+END_note
 
 @@html:<ol reversed>@@
+
+{{{LI}}} A. Løkkegaard, *K. D. Mankoff*, C. Zdanowicz, G. D. Clow, M. P. Lüthi, S. H. Doyle, H. H. Thomsen, D. Fisher, J. Harper, A. Aschwanden, B. M. Vinther, D. Dahl-Jensen, H. Zekollari, T. Meierbachtol, I. McDowell, N. Humphrey, A. Solgaard, N. B. Karlsson, S. A. Khan, B. Hills, R. Law, B. Hubbard, P. Christoffersen, Jacquemart, Mylène, J. Seguinot, R. S. Fausto, and W. T. Colgan. _*"Greenland and Canadian Arctic ice temperature profiles database"*_. The Cryosphere. 2023, 17 (9), 3829–3845. {{{DOI(10.5194/tc-17-3829-2023)}}}.
 
 {{{LI}}} N. B. Karlsson, *K. D. Mankoff*, A. M. Solgaard, S. H. Larsen, P. R. How, R. S. Fausto, and L. S. Sørensen. _*"A data set of monthly freshwater fluxes from the Greenland ice sheet’s marine-terminating glaciers on a glacier–basin scale 2010–2020"*_. GEUS Bulletin. 2023, 53. {{{DOI(10.34194/geusb.v53.8338)}}}.
 
@@ -383,17 +388,16 @@ These fjords are the connection between the warming North Atlantic waters and th
 Pine Island Glacier ice shelf, the floating tongue of the fastest ice stream in West Antarctica, has experienced recent acceleration and thinning, primarily due to rapid melting by relatively warm ocean waters accessing the grounding zone and base of the ice shelf.
 
 While sub-ice shelf outflow plumes had long been assumed and occasionally observed at the edge of other ice shelves, and modeled at the PIG ice shelf, my observations confirmed the sub-shelf plume at this location. More recent additional work on PIG has shown high melt rates in the upstream sub-shelf basal conduits, and that sub-shelf conduits are both widespread and connected to upstream subglacial hydrology.
+
 * Publish                                               :noexport:
-#+BEGIN_SRC sh :results verbatim
-# export with C-e h h
 
-# free?
-# ncftpput -u 2579385 f18-preview.awardspace.net kenmankoff.com index.html
-# ncftpput -u 2579385 f18-preview.awardspace.net kenmankoff.com ~/Documents/CV/mankoff_cv*.pdf
-
-# pay
-ncftpput -u 2579385 p56-preview.awardspace.net kenmankoff.com index.html
-ncftpput -u 2579385 p56-preview.awardspace.net kenmankoff.com ~/Documents/CV/mankoff_cv.pdf
-# AwardSpace
+#+NAME: copy_cv
+#+BEGIN_SRC bash :exports both :results verbatim
+date
+cp -v ~/Documents/CV/mankoff_cv.pdf .
 #+END_SRC
+
 #+RESULTS:
+: Sat Sep  9 07:53:59 AM PDT 2023
+: '/home/kdm/Documents/CV/mankoff_cv.pdf' -> './mankoff_cv.pdf'
+
