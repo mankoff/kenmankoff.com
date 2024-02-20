@@ -30,7 +30,7 @@ cp -v ~/Documents/CV/mankoff_cv.pdf .
 #+END_SRC
 
 #+RESULTS: copy_cv
-: Tue Sep 12 12:46:51 PM PDT 2023
+: Tue Feb 20 02:58:14 PM PST 2024
 : '/home/kdm/Documents/CV/mankoff_cv.pdf' -> './mankoff_cv.pdf'
 
 * Contact
@@ -152,6 +152,14 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 
 @@html:<ol reversed>@@
 
+{{{LI}}} R. N. Ing, P. W. Nienow, A. J. Sole, A. J. Tedstone, and *K. D. Mankoff*. _*Minimal Impact of Late-Season Melt Events on Greenland Ice Sheet Annual Motion*_. Geophysical Research Letters. 2024, 51 (4). {{{DOI(10.1029/2023gl106520)}}}.
+
+{{{LI}}} L. A. Roach, *K. D. Mankoff*, A. Romanou, E. BlanchardâWrigglesworth, T. W. N. Haine, and G. A. Schmidt. _*Winds and Meltwater Together Lead to Southern Ocean Surface Cooling and Sea Ice Expansion*_. Geophysical Research Letters. 2023, 50 (24). issn: 1944-8007. {{{DOI(10.1029/2023gl105948)}}}.
+
+{{{LI}}} G. A. Schmidt, A. Romanou, L. A. Roach, *K. D. Mankoff*, Q. Li, C. D. Rye, M. Kelley, J. C. Marshall, and J. J. M. Busecke. _*Anomalous Meltwater From Ice Sheets and Ice Shelves Is a Historical Forcing*_. Geophysical Research Letters. 2023, 50 (24). issn: 1944-8007. {{{DOI(10.1029/2023gl106530)}}}.
+
+{{{LI}}} B. Vandecrux, J. E. Box, A. P. Ahlstrøm, S. B. Andersen, N. Bayou, W. T. Colgan, N. J. Cullen, R. S. Fausto, D. Haas-Artho, A. Heilig, D. A. Houtz, P. How, I. Iosifescu Enescu, N. B. Karlsson, R. Kurup Buchholz, *K. D. Mankoff*, D. McGrath, N. P. Molotch, B. Perren, M. K. Revheim, A. Rutishauser, K. Sampson, M. Schneebeli, S. Starkweather, S. Steffen, J. Weber, P. J. Wright, H. J. Zwally, and K. Steffen. _*The historical Greenland Climate Network (GC-Net) curated and augmented level-1 dataset*_. Earth System Science Data. 2023, 15 (12), 5467-5489. issn: 1866-3516. {{{DOI(10.5194/essd-15-5467-2023)}}}.
+
 {{{LI}}} A. Løkkegaard, *K. D. Mankoff*, C. Zdanowicz, G. D. Clow, M. P. Lüthi, S. H. Doyle, H. H. Thomsen, D. Fisher, J. Harper, A. Aschwanden, B. M. Vinther, D. Dahl-Jensen, H. Zekollari, T. Meierbachtol, I. McDowell, N. Humphrey, A. Solgaard, N. B. Karlsson, S. A. Khan, B. Hills, R. Law, B. Hubbard, P. Christoffersen, Jacquemart, Mylène, J. Seguinot, R. S. Fausto, and W. T. Colgan. _*"Greenland and Canadian Arctic ice temperature profiles database"*_. The Cryosphere. 2023, 17 (9), 3829–3845. {{{DOI(10.5194/tc-17-3829-2023)}}}.
 
 {{{LI}}} N. B. Karlsson, *K. D. Mankoff*, A. M. Solgaard, S. H. Larsen, P. R. How, R. S. Fausto, and L. S. Sørensen. _*"A data set of monthly freshwater fluxes from the Greenland ice sheet’s marine-terminating glaciers on a glacier–basin scale 2010–2020"*_. GEUS Bulletin. 2023, 53. {{{DOI(10.34194/geusb.v53.8338)}}}.
@@ -159,6 +167,8 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 {{{LI}}} P. R. How, P. J. Wright, *K. D. Mankoff*, B. Vandecrux, R. S. Fausto, and A. P. Ahlstrøm. _*"pypromice: A Python package for processing automated weather station data"*_. Journal of Open Source Software. 2023, 8 (86), 5298. {{{DOI(10.21105/joss.05298)}}}.
 
 {{{LI}}} M. Siegfried, R. Venturelli, M. Patterson, W. Arnuk, T. Campbell, C. Gustafson, A. Michaud, B. Galton-Fenzi, M. Hausner, S. Holzschuh, B. Huber, *K. D. Mankoff*, D. Schroeder, P. Summers, S. Tyler, S. Carter, H. Fricker, D. Harwood, A. Leventer, B. Rosenheim, M. Skidmore, and J. P. and. _*"The life and death of a subglacial lake in West Antarctica"*_. Geology. 2023, 51 (5), 434–438. {{{DOI(10.1130/g50995.1)}}}.
+
+{{{LI}}} W. Colgan, C. Shields, P. Talalay, X. Fan, A. P. Lines, J. Elliott, H. Rajaram, *K. Mankoff*, M. Jensen, M. Backes, Y. Liu, X. Wei, N. B. Karlsson, H. Spanggård, and A. Ø. Pedersen. _*Design and performance of the Hotrod melt-tip ice-drilling system*_. Geoscientific Instrumentation, Methods and Data Systems. 2023, 12 (2), 121–140. {{{DOI(10.5194/gi-12-121-2023)}}}.
 
 {{{LI}}} E. F. Møller, A. Christensen, J. Larsen, *K. D. Mankoff*, M. H. Ribergaard, M. Sejr, P. Wallhead, and M. Maar. _*"The sensitivity of primary productivity in Disko Bay, a coastal Arctic ecosystem, to changes in freshwater discharge and sea ice cover"*_. Ocean Science. 2023, 19 (2), 403–420. {{{DOI(10.5194/os-19-403-2023)}}}.
 
