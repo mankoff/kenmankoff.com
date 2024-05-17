@@ -30,7 +30,7 @@ cp -v ~/Documents/CV/mankoff_cv.pdf .
 #+END_SRC
 
 #+RESULTS: copy_cv
-: Tue Feb 20 02:58:14 PM PST 2024
+: Fri May 17 07:40:07 AM PDT 2024
 : '/home/kdm/Documents/CV/mankoff_cv.pdf' -> './mankoff_cv.pdf'
 
 * Contact
@@ -78,8 +78,8 @@ For more information, please read the relevant [[#publications][publications]] o
   + [[https://github.com/GEUS-Glaciology-and-Climate/mass_balance][Total mass balance]]
   + [[https://github.com/GEUS-Glaciology-and-Climate/freshwater/][Freshwater runoff]]
   + [[https://github.com/GEUS-Glaciology-and-Climate/ice_discharge/][Ice discharge]]
-+ Co-Chair, IACS Working Group on the "Delineation of glaciers, ice sheets and ice sheet basins"
-+ Thinking about glacier geo-engineering
++ Co-Chair, IACS Working Group on the "[[https://github.com/IACS-cryo/Delineation-WG][Delineation of glaciers, ice sheets and ice sheet basins]]"
++ Thinking about [[https://doi.org/10.5281/zenodo.11115730][glacier geo-engineering]]
 
 * Photos
 :PROPERTIES:
@@ -150,6 +150,8 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 #+END_note
 
 @@html:<ol reversed>@@
+
+{{{LI}}} M. Wood, A. Khazendar, I. Fenty, *K. Mankoff*, A. T. Nguyen, K. Schulz, J. K. Willis, and H. Zhang. “Decadal Evolution of IceâOcean Interactions at a Large East Greenland Glacier Resolved at Fjord Scale With Downscaled Ocean Models and Observations”. Geophysical Research Letters. 2024, 51 (7). issn: 1944-8007. {{{DOI(10.1029/2023gl107983)}}}.
 
 {{{LI}}} R. N. Ing, P. W. Nienow, A. J. Sole, A. J. Tedstone, and *K. D. Mankoff*. _*Minimal Impact of Late-Season Melt Events on Greenland Ice Sheet Annual Motion*_. Geophysical Research Letters. 2024, 51 (4). {{{DOI(10.1029/2023gl106520)}}}.
 
