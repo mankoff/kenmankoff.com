@@ -151,11 +151,11 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 
 @@html:<ol reversed>@@
 
-{{{LI}}} M. Wood, A. Khazendar, I. Fenty, *K. Mankoff*, A. T. Nguyen, K. Schulz, J. K. Willis, and H. Zhang. “Decadal Evolution of IceâOcean Interactions at a Large East Greenland Glacier Resolved at Fjord Scale With Downscaled Ocean Models and Observations”. Geophysical Research Letters. 2024, 51 (7). issn: 1944-8007. {{{DOI(10.1029/2023gl107983)}}}.
+{{{LI}}} M. Wood, A. Khazendar, I. Fenty, *K. Mankoff*, A. T. Nguyen, K. Schulz, J. K. Willis, and H. Zhang. “Decadal Evolution of Ice-Ocean Interactions at a Large East Greenland Glacier Resolved at Fjord Scale With Downscaled Ocean Models and Observations”. Geophysical Research Letters. 2024, 51 (7). issn: 1944-8007. {{{DOI(10.1029/2023gl107983)}}}.
 
 {{{LI}}} R. N. Ing, P. W. Nienow, A. J. Sole, A. J. Tedstone, and *K. D. Mankoff*. _*Minimal Impact of Late-Season Melt Events on Greenland Ice Sheet Annual Motion*_. Geophysical Research Letters. 2024, 51 (4). {{{DOI(10.1029/2023gl106520)}}}.
 
-{{{LI}}} L. A. Roach, *K. D. Mankoff*, A. Romanou, E. BlanchardâWrigglesworth, T. W. N. Haine, and G. A. Schmidt. _*Winds and Meltwater Together Lead to Southern Ocean Surface Cooling and Sea Ice Expansion*_. Geophysical Research Letters. 2023, 50 (24). issn: 1944-8007. {{{DOI(10.1029/2023gl105948)}}}.
+{{{LI}}} L. A. Roach, *K. D. Mankoff*, A. Romanou, E. Blanchard-Wrigglesworth, T. W. N. Haine, and G. A. Schmidt. _*Winds and Meltwater Together Lead to Southern Ocean Surface Cooling and Sea Ice Expansion*_. Geophysical Research Letters. 2023, 50 (24). issn: 1944-8007. {{{DOI(10.1029/2023gl105948)}}}.
 
 {{{LI}}} G. A. Schmidt, A. Romanou, L. A. Roach, *K. D. Mankoff*, Q. Li, C. D. Rye, M. Kelley, J. C. Marshall, and J. J. M. Busecke. _*Anomalous Meltwater From Ice Sheets and Ice Shelves Is a Historical Forcing*_. Geophysical Research Letters. 2023, 50 (24). issn: 1944-8007. {{{DOI(10.1029/2023gl106530)}}}.
 
