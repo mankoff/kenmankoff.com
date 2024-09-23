@@ -30,7 +30,7 @@ cp -v ~/Documents/CV/mankoff_cv.pdf .
 #+END_SRC
 
 #+RESULTS: copy_cv
-: Fri May 17 07:40:07 AM PDT 2024
+: Fri Aug 30 11:29:06 AM PDT 2024
 : '/home/kdm/Documents/CV/mankoff_cv.pdf' -> './mankoff_cv.pdf'
 
 * Contact
@@ -93,7 +93,7 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 :CUSTOM_ID: pic:A380
 :END:
 (Photo by Austin Lines)
-#+ATTR_HTML: :width 500
+#+ATTR_HTML: :width 750
 [[./fig/A380.png]]
 
 #+BEGIN_EXPORT html
@@ -106,7 +106,7 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 :PROPERTIES:
 :CUSTOM_ID: pic:jetyak
 :END:
-#+ATTR_HTML: :width 500
+#+ATTR_HTML: :width 750
 [[./fig/jetyak.png]]
 
 ** Rappelling into a glacier moulin
@@ -114,7 +114,7 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 :CUSTOM_ID: pic:rappel
 :END:
 (Photo by Jennifer Macalady)
-#+ATTR_HTML: :width 500
+#+ATTR_HTML: :width 750
 [[./fig/moulin.jpg]]
 
 ** Working inside a subglacial conduit
@@ -122,14 +122,14 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 :CUSTOM_ID: pic:conduit
 :END:
 (Photo by Matt Covington)
-#+ATTR_HTML: :width 500
+#+ATTR_HTML: :width 750
 [[./fig/conduit_work.JPG]]
 
 ** Pancake ice
 :PROPERTIES:
 :CUSTOM_ID: pic:pancake
 :END:
-#+ATTR_HTML: :width 500
+#+ATTR_HTML: :width 750
 [[./fig/pancake.JPG]]
 
 
@@ -137,7 +137,8 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 :PROPERTIES:
 :CUSTOM_ID: pic:selfie
 :END:
-#+ATTR_HTML: :width 500
+
+#+ATTR_HTML: :width 750
 [[./fig/mankoff.jpg]]
 
 * Publications
