@@ -12,7 +12,7 @@
 
 #+EXPORT_FILE_NAME: index
 
-#+SETUPFILE: ./org-html-themes/setup/theme-readtheorg.setup
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
 
 #+HTML_HEAD_EXTRA: <style>*{font-family: sans-serif !important}</style>
 
@@ -68,16 +68,6 @@ I am a research scientist studying ice sheets and polar oceans as indicators of 
 + *Public outreach* and education including popular press interviews, museum display creation, and speaking engagements on all seven continents from the U.N. General Assembly Room to kindergarten classrooms.
 
 For more information, please read the relevant [[#publications][publications]] or my [[http://kenmankoff.com/mankoff_cv.pdf][CV]].
-
-* Active projects
-
-+ Coupling [[https://www.pism.io/][PISM]] to the NASA [[https://www.giss.nasa.gov/][GISS]] [[https://www.giss.nasa.gov/tools/modelE/][ModelE GCM]]
-+ Chief Editor (Ice) of [[https://www.earth-system-science-data.net/][Earth System Science Data (ESSD)]]
-+ Contributing to GEUS [[https://promice.org/][PROMICE]] Greenland data products
-  + [[https://promice.org/weather-stations/][Weather station maintenance]]
-  + [[https://github.com/GEUS-Glaciology-and-Climate/mass_balance][Total mass balance]]
-  + [[https://github.com/GEUS-Glaciology-and-Climate/freshwater/][Freshwater runoff]]
-  + [[https://github.com/GEUS-Glaciology-and-Climate/ice_discharge/][Ice discharge]]
 
 * Photos
 :PROPERTIES:
