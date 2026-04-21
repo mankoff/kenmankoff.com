@@ -12,7 +12,7 @@
 
 #+EXPORT_FILE_NAME: index
 
-#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: ./org-html-themes/setup/theme-readtheorg.setup
 
 #+HTML_HEAD_EXTRA: <style>*{font-family: sans-serif !important}</style>
 
