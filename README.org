@@ -30,7 +30,7 @@ cp -v ~/Documents/CV/mankoff_cv.pdf .
 #+END_SRC
 
 #+RESULTS: copy_cv
-: Tue Dec 23 10:10:19 PM -03 2025
+: Sun May  3 05:38:38 PM PDT 2026
 : '/home/kdm/Documents/CV/mankoff_cv.pdf' -> './mankoff_cv.pdf'
 
 * Contact
@@ -40,8 +40,9 @@ cp -v ~/Documents/CV/mankoff_cv.pdf .
 
 | Name          | Ken Mankoff                                                                   |
 | Current roles | Senior Scientific Programmer, NASA [[https://www.giss.nasa.gov/][Goddard Institute for Space Studies (GISS)]] |
+|               | Owner, [[https://tenruskoff.com][Ten Ruskoff LLC]]                                                        |
+|               | Founder & Glaciologist, Institute for Glacier Stewardship                     |
 |               | Adjunct Senior Scientist, [[https://eng.geus.dk/about/organisation/departments/glaciology-and-climate][Geological Survey of Denmark and Greenland (GEUS)]]   |
-|               | Owner / CEO, [[https://tenruskoff.com][Ten Ruskoff LLC]]                                                  |
 | Email         | [[mailto:Ken Mankoff <km@kenmankoff.com>][km@kenmankoff.com]]                                                             |
 | CV            | http://kenmankoff.com/mankoff_cv.pdf                                          |
 | Home Page     | http://kenmankoff.com                                                         |
@@ -139,6 +140,10 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 #+END_note
 
 @@html:<ol reversed>@@
+
+{{{LI}}}R. S. Fausto, P. How, B. Vandecrux, M. C. Lund, J. E. Box, *K. D. Mankoff*, S. B. Andersen, D. van As, R. Bahbah, M. Citterio, W. Colgan, H. T. Jakobsgaard, N. B. Karlsson, K. K. Kjeldsen, S. H. Larsen, C. Olsen, F. M. Oraschewski, A. Rutishauser, C. L. Shields, A. M. Solgaard, I. T. Stevens, S. H. Svendsen, K. Langley, A. Messerli, A. A. Bjørk, J. K. Andersen, J. Abermann, J. Steiner, R. Prinz, B. Hynek, J. M. Lea, S. Brough, and A. P. Ahlstrøm. _*"PROMICE | GC-NET automatic weather station data"*_. Earth System Science Data. 2026, 18 (4), 2829–2873. {{{DOI(10.5194/essd-18-2829-2026)}}}.
+
+{{{LI}}} M. Winstrup, S. B. Simonsen, S. Hillerup Larsen, *K. D. Mankoff*, R. S. Fausto, and L. Sandberg Sørensen. _*"PRODEM-Xtract: A Python tool for extracting high-resolution annual ice elevations along Greenland flux gates"*_. GEUS Bulletin. 2026, 62. {{{DOI(10.34194/hggj0y98)}}}.
 
 {{{LI}}} *K. D. Mankoff*, C. A. Greene, A. S. Gardner, B. Davison, D. Treichler, W. H. Kochtitzky, B. Van Liefferinge, G. Wang, C.-Q. Ke, X. Fettweis, T. Döhne, R. S. Fausto, and D. Ringeisen. _*"Ice sheet mass flow and balance with constituent terms 2010–19*"_. Journal of Glaciology. 2025, 71. {{{DOI(10.1017/jog.2025.10092)}}}.
 
