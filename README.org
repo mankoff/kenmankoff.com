@@ -141,6 +141,9 @@ Here are some photos from some of my fieldwork. Many of these have papers (liste
 
 @@html:<ol reversed>@@
 
+{{{LI}}}M. Devilliers, D. Swingedouw, T. Martin, *K. D. Mankoff*, I. Schiller-Weiss, J. Mignot, S. M. Olsen, and J. Deshayes. _*AMOC response to historical freshwater increase*_. Nature Geoscience.
+{{{DOI(10.1038/s41561-026-02028-8)}}}.
+
 {{{LI}}}R. S. Fausto, P. How, B. Vandecrux, M. C. Lund, J. E. Box, *K. D. Mankoff*, S. B. Andersen, D. van As, R. Bahbah, M. Citterio, W. Colgan, H. T. Jakobsgaard, N. B. Karlsson, K. K. Kjeldsen, S. H. Larsen, C. Olsen, F. M. Oraschewski, A. Rutishauser, C. L. Shields, A. M. Solgaard, I. T. Stevens, S. H. Svendsen, K. Langley, A. Messerli, A. A. Bjørk, J. K. Andersen, J. Abermann, J. Steiner, R. Prinz, B. Hynek, J. M. Lea, S. Brough, and A. P. Ahlstrøm. _*"PROMICE | GC-NET automatic weather station data"*_. Earth System Science Data. 2026, 18 (4), 2829–2873. {{{DOI(10.5194/essd-18-2829-2026)}}}.
 
 {{{LI}}} M. Winstrup, S. B. Simonsen, S. Hillerup Larsen, *K. D. Mankoff*, R. S. Fausto, and L. Sandberg Sørensen. _*"PRODEM-Xtract: A Python tool for extracting high-resolution annual ice elevations along Greenland flux gates"*_. GEUS Bulletin. 2026, 62. {{{DOI(10.34194/hggj0y98)}}}.
